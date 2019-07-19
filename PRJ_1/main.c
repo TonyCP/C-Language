@@ -1,3 +1,4 @@
+/* This is a simple diar
 #include "dFunct.h"
 
 void newEntry();
