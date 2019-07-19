@@ -1,4 +1,4 @@
-/* This is a simple diar
+/* This is a simple diary management project */
 #include "dFunct.h"
 
 void newEntry();
