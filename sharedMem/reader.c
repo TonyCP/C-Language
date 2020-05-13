@@ -3,6 +3,11 @@
  * Lab 5: The Reader(s)
  *
  * @author Tonae Patterson
+ * To test your programs:
+ *	Open three terminal windows
+ *	Run one instance of the "Writer" program in the first window
+ * 	Run one instance of the "Reader" program in each of the other two windows
+ * 	Type your text input in the first window
  * *************************************************************/
 #include <signal.h>
 #include <unistd.h>
