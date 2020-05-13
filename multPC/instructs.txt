@@ -1,0 +1,9 @@
+Insert sufficient delay in your code so the screen updates can be observed easily. To observe the effect of relative speed between the two threads the actual delay time shall be inferred from two numbers provided as command line arguments:
+# Sleep time: producer 3000 milliseconds, consumer 500 milliseconds
+./myprogam 3000 500
+
+The program shall continue running until the user presses Ctrl-C and your program exits gracefully (remove semaphores, clean up memory, etc.). No "emergency" exit()!
+
+The main thread shall join the producer and consumer threads appropriately and reports the following prior to termination:
+The number of items produced
+The number of items consumed
