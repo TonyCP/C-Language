@@ -1,0 +1,1816 @@
+/home/wangx/:
+total 244
+drwx--x--x   23 wangx users  4096 Nov 27 17:27 .
+drwxr-xr-x 1725 root  root  40960 Nov 16 10:06 ..
+-rwx--x--x    1 wangx users  8520 Oct 14 10:16 a.out
+drwx--x--x    3 wangx users  4096 Nov 25 16:02 .backup
+-rw-------    1 wangx users 10999 Nov 26 17:27 .bash_history
+-rw-r--r--    1 wangx users    18 Dec  6  2016 .bash_logout
+-rw-r--r--    1 wangx users   277 Nov  7 14:36 .bash_profile
+-rw-r--r--    1 wangx users   242 Nov 11 13:34 .bashrc
+drwxr-xr-x    9 wangx users  4096 Aug 28 14:47 .cache
+drwxr-xr-x   11 wangx users  4096 Aug 28 14:56 .config
+drwx------    3 wangx users  4096 Nov  1 11:20 .dbus
+drwxr-xr-x    2 wangx users  4096 Aug 28 14:26 Desktop
+drwxr-xr-x    2 wangx users  4096 Aug 28 14:26 Documents
+drwxr-xr-x    2 wangx users  4096 Aug 28 14:26 Downloads
+drwx------    3 wangx users  4096 Aug 31 15:16 .emacs.d
+-rw-------    1 wangx users    16 Aug 28 14:26 .esd_auth
+-rw-------    1 wangx users   273 Nov  9 17:09 .history
+-rw-------    1 wangx users   314 Aug 28 14:26 .ICEauthority
+-rw-r--r--    1 wangx users   172 Nov  5  2016 .kshrc
+drwx------    3 wangx users  4096 Aug 28 14:26 .local
+drwxr-xr-x    5 wangx users  4096 Aug 28 14:47 .mozilla
+drwxr-xr-x    2 wangx users  4096 Aug 28 14:26 Music
+drwx--x--x    2 wangx users  4096 Sep 30 11:04 .oracle_jre_usage
+-rw-------    1 wangx users     5 Nov  4 14:45 pass
+drwxr-xr-x    2 wangx users  4096 Aug 28 14:26 Pictures
+drwxr-xr-x    2 wangx users  4096 Aug 28 14:26 Public
+drwx---r-x    3 wangx users  4096 Sep  6 17:06 public_html
+-rw-------    1 wangx users  1348 Nov 26 17:26 .recently-used.xbel
+-rw-------    1 wangx users  1024 Sep 27 14:36 .rnd
+-rwx------    1 wangx users   106 Nov  7 17:14 simple
+drwxr-xr-x    2 wangx users  4096 Aug 28 14:26 Templates
+-rwxrwxrwx    1 wangx users     0 Nov  1 21:09 test
+-rw-r-----    1 wangx users     0 Nov  1 21:31 test1
+-rw-------    1 wangx users     2 Nov  7 17:15 tmp
+-rw-------    1 wangx users    58 Nov  2 16:39 today
+-rw-------    1 wangx users    29 Nov  2 16:36 today1
+-rw-------    1 wangx users    58 Nov  2 16:37 tt
+drwxr-xr-x    2 wangx users  4096 Aug 28 14:26 Videos
+drwx--x--x    2 wangx users  4096 Oct 31 16:44 .vim
+-rw-------    1 wangx users  7607 Nov 27 17:27 .viminfo
+drwx--x--x    6 wangx users  4096 Nov 22 04:44 .vms
+drwx--x--x    2 wangx users  4096 Nov 26 15:55 .vmware
+drwx--x--x    3 wangx users  4096 Sep 10 15:57 work
+-rw-------    1 wangx users   192 Nov 26 15:54 .Xauthority
+-rw-------    1 wangx users 18296 Aug 28 16:30 .xsession-errors
+
+/home/wangx/.backup:
+total 16
+drwx--x--x  3 wangx users 4096 Nov 25 16:02 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+-rw-------  1 wangx users   16 Nov 25 16:02 fa.txt
+drwx--x--x  2 wangx users 4096 Nov 25 16:02 test
+
+/home/wangx/.backup/test:
+total 12
+drwx--x--x 2 wangx users 4096 Nov 25 16:02 .
+drwx--x--x 3 wangx users 4096 Nov 25 16:02 ..
+-rw------- 1 wangx users   16 Nov 25 16:02 f1.txt
+
+/home/wangx/.cache:
+total 36
+drwxr-xr-x  9 wangx users 4096 Aug 28 14:47 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+drwxr-xr-x  2 wangx users 4096 Nov 27 11:05 abrt
+drwx------  2 wangx users 4096 Aug 28 14:26 dconf
+drwxr-xr-x  2 wangx users 4096 Aug 28 14:47 fontconfig
+drwx------  2 wangx users 4096 Aug 28 14:26 imsettings
+drwx------  2 wangx users 4096 Aug 28 16:30 keyring-VFZ25Y
+drwx------  3 wangx users 4096 Aug 28 14:47 mozilla
+drwx------  3 wangx users 4096 Aug 28 14:28 vmware
+
+/home/wangx/.cache/abrt:
+total 12
+drwxr-xr-x 2 wangx users 4096 Nov 27 11:05 .
+drwxr-xr-x 9 wangx users 4096 Aug 28 14:47 ..
+-rw------- 1 wangx users    0 Aug 28 14:26 applet_dirlist
+-rw------- 1 wangx users   11 Nov 27 11:05 lastnotification
+
+/home/wangx/.cache/dconf:
+total 12
+drwx------ 2 wangx users 4096 Aug 28 14:26 .
+drwxr-xr-x 9 wangx users 4096 Aug 28 14:47 ..
+-rw------- 1 wangx users    2 Aug 28 14:26 user
+
+/home/wangx/.cache/fontconfig:
+total 16
+drwxr-xr-x 2 wangx users 4096 Aug 28 14:47 .
+drwxr-xr-x 9 wangx users 4096 Aug 28 14:47 ..
+-rw------- 1 wangx users 1616 Aug 28 14:47 477ff6b974c3c1b81af411ebecb34280-le64.cache-4
+-rw------- 1 wangx users  200 Aug 28 14:47 CACHEDIR.TAG
+
+/home/wangx/.cache/imsettings:
+total 12
+drwx------ 2 wangx users 4096 Aug 28 14:26 .
+drwxr-xr-x 9 wangx users 4096 Aug 28 14:47 ..
+-rw-r--r-- 1 wangx users 3015 Aug 28 16:30 log
+
+/home/wangx/.cache/keyring-VFZ25Y:
+total 8
+drwx------ 2 wangx users 4096 Aug 28 16:30 .
+drwxr-xr-x 9 wangx users 4096 Aug 28 14:47 ..
+
+/home/wangx/.cache/mozilla:
+total 12
+drwx------ 3 wangx users 4096 Aug 28 14:47 .
+drwxr-xr-x 9 wangx users 4096 Aug 28 14:47 ..
+drwx------ 3 wangx users 4096 Aug 28 14:47 firefox
+
+/home/wangx/.cache/mozilla/firefox:
+total 12
+drwx------ 3 wangx users 4096 Aug 28 14:47 .
+drwx------ 3 wangx users 4096 Aug 28 14:47 ..
+drwx------ 7 wangx users 4096 Aug 28 15:16 okaffgnb.default
+
+/home/wangx/.cache/mozilla/firefox/okaffgnb.default:
+total 36
+drwx------ 7 wangx users 4096 Aug 28 15:16 .
+drwx------ 3 wangx users 4096 Aug 28 14:47 ..
+drwx------ 4 wangx users 4096 Aug 28 14:47 cache2
+-rw------- 1 wangx users 2370 Aug 28 14:47 directoryLinks.json
+-rw------- 1 wangx users    2 Aug 28 14:47 frequencyCap.json
+drwx------ 2 wangx users 4096 Aug 28 14:47 OfflineCache
+drwx--x--x 2 wangx users 4096 Aug 28 15:16 safebrowsing
+drwx--x--x 2 wangx users 4096 Aug 28 14:48 startupCache
+drwx------ 2 wangx users 4096 Aug 28 14:47 thumbnails
+
+/home/wangx/.cache/mozilla/firefox/okaffgnb.default/cache2:
+total 32
+drwx------ 4 wangx users  4096 Aug 28 14:47 .
+drwx------ 7 wangx users  4096 Aug 28 15:16 ..
+drwx------ 2 wangx users  4096 Aug 28 14:55 doomed
+drwx------ 2 wangx users 20480 Aug 28 15:28 entries
+
+/home/wangx/.cache/mozilla/firefox/okaffgnb.default/cache2/doomed:
+total 8
+drwx------ 2 wangx users 4096 Aug 28 14:55 .
+drwx------ 4 wangx users 4096 Aug 28 14:47 ..
+
+/home/wangx/.cache/mozilla/firefox/okaffgnb.default/cache2/entries:
+total 4188
+drwx------ 2 wangx users  20480 Aug 28 15:28 .
+drwx------ 4 wangx users   4096 Aug 28 14:47 ..
+-rw------- 1 wangx users   1322 Aug 28 14:47 0406AEADFAAFAEF2ACB47AFE48E42B343FF05381
+-rw------- 1 wangx users  35933 Aug 28 14:47 0479338BCB40EB5F3D0523D9A87ADDAD84F071F6
+-rw------- 1 wangx users   6691 Aug 28 14:47 048FA502D776B3F970CE1BFA414B6B8344D3766C
+-rw------- 1 wangx users   3961 Aug 28 15:28 049BFE0C792A2B06AD4D3748063EF548E15C2B58
+-rw------- 1 wangx users  14958 Aug 28 14:47 06CB8C8DE0ECAEEC42C4CD467DA778215AFD2884
+-rw------- 1 wangx users   3938 Aug 28 14:47 09CEB5DA0C2218845B48191F7681E0C460C38395
+-rw------- 1 wangx users   1776 Aug 28 15:28 0A4BC244A93F330771B76D61DCD076DB42F0F91F
+-rw------- 1 wangx users  10795 Aug 28 14:47 0B1FA9554058D9EF07AB9A63C3A9FC528B00721A
+-rw------- 1 wangx users   1776 Aug 28 15:28 0E09BEA5D2A89A0DA996C81BC726A712BBB6D153
+-rw------- 1 wangx users  17603 Aug 28 14:47 0F08A6ECD3323BE3F9CAA61BAD602B3884065EF3
+-rw------- 1 wangx users    702 Aug 28 15:28 1009E9125A63C6EC40A0821FC62423D4B0E500D7
+-rw------- 1 wangx users  11872 Aug 28 14:47 1019CD3EAA7D89B7BFC4ED975A1AA17FEAC41752
+-rw------- 1 wangx users  15507 Aug 28 14:47 108573E2B07FF25FFCAFE37F58D375561A47424D
+-rw------- 1 wangx users  16285 Aug 28 14:47 161EFC4D06AABA2704A92FF683EDBDA50C5D162E
+-rw------- 1 wangx users  14008 Aug 28 14:47 169DE26F90BD6DBFD8BD40FA750A3D49C4AD0699
+-rw------- 1 wangx users   9906 Aug 28 15:28 18251C51AF64D9EE17E65087A7E7EF86A8260266
+-rw------- 1 wangx users   7513 Aug 28 14:47 199A4B1E63BF6B84DB4ABFC805A3D0428C7E5E09
+-rw------- 1 wangx users  11437 Aug 28 15:28 1D484C61F2230D947DBB03A6C1E8EBDB5C39C208
+-rw------- 1 wangx users  17310 Aug 28 14:47 206ABBBC4F0DCC68BCE4E2EDF15C2B160A47B406
+-rw------- 1 wangx users  10699 Aug 28 14:47 2076A1D939A09D918E9BA41F948A38E283CCDDA0
+-rw------- 1 wangx users  17401 Aug 28 14:47 238558491222FC437B5D85C866D7DBEEB29E085E
+-rw------- 1 wangx users   8350 Aug 28 14:47 2454D5B2161FBC7A85A15A79191E87039C16676A
+-rw------- 1 wangx users    498 Aug 28 14:47 24F7B4C327D5E6A94B48C5A0D1F5B4598BD7CF2D
+-rw------- 1 wangx users  50412 Aug 28 15:28 262BF42A45EE1C3937F6EA64C0094A59860B44AD
+-rw------- 1 wangx users   8780 Aug 28 15:28 267EBF80583106CF581F1B4C6C52D353C2C9CA8A
+-rw------- 1 wangx users  84194 Aug 28 14:47 29530965E7EA8CEAEEFBED76DA1C00F68251853E
+-rw------- 1 wangx users   1320 Aug 28 14:53 29C499D7E3B06531A7C2BC0B3A25B51735836634
+-rw------- 1 wangx users   2712 Aug 28 14:47 2A388B937A507A275F4B250BE386FCEEC742254E
+-rw------- 1 wangx users  15124 Aug 28 14:47 33374811A7793236EB8C7D559EEBEF1A278C4478
+-rw------- 1 wangx users   1234 Aug 28 14:47 337B45DDF375970773F252CEE75A54215EFD73AD
+-rw------- 1 wangx users  37128 Aug 28 14:47 339A4E96E26DFFA4704F0AF081D2B85B12D03939
+-rw------- 1 wangx users  25121 Aug 28 14:47 379F7E53446E5F7716E5BD39616BB2A6D0CE0996
+-rw------- 1 wangx users  16475 Aug 28 15:28 3870F775208C114DB4939886E7F97BD016BF0075
+-rw------- 1 wangx users  90454 Aug 28 15:28 38DF5D96EE2824CBCADA1CDAB1709EE6CB6E0F6E
+-rw------- 1 wangx users  24710 Aug 28 14:47 3C47C0CECD62C87D1767E0514098BFB65A4FDA16
+-rw------- 1 wangx users   1320 Aug 28 14:47 3C5EB5A083B0B1F5C566AEE3F1793B8ECE297EA6
+-rw------- 1 wangx users  43347 Aug 28 15:28 3D8624517F8551E1166CA6C24D425994161F8D07
+-rw------- 1 wangx users   1236 Aug 28 14:47 3DB7511598C8CF451697CBA299720E2304C36335
+-rw------- 1 wangx users   5701 Aug 28 15:28 3E01E344A0189840FB287D4DC293A0D2088A4799
+-rw------- 1 wangx users     22 Aug 28 15:28 3E609AC7DFC701E84563D7B70D93DEE0F69E7DE4
+-rw------- 1 wangx users   7585 Aug 28 14:47 3F597A3A2E629D363DDEA44B5166DA8604119982
+-rw------- 1 wangx users   7249 Aug 28 14:47 3FB93FB3EC76DD880ABC0452A0FD86CAD28A62F6
+-rw------- 1 wangx users  12816 Aug 28 14:47 4017B4125B7B85E8F9AA345F9A993EF66987E7D1
+-rw------- 1 wangx users   1236 Aug 28 14:47 411D6E3B4A2D328B1A40AB587CCAFDFF7B2D40D4
+-rw------- 1 wangx users   9375 Aug 28 14:47 421ED3F5BEF7D7CB572FF25F6617BCA95C714674
+-rw------- 1 wangx users  15052 Aug 28 14:47 432CB2B568E27829312306F2177D2D9C1ACC45E7
+-rw------- 1 wangx users    101 Aug 28 15:28 4454D7E879A7D86BC065371C2579745BFDBB15D5
+-rw------- 1 wangx users   6157 Aug 28 14:47 45D4CFD1F98D3F44B049D8A2C4CCFFA4E9468B46
+-rw------- 1 wangx users   1324 Aug 28 14:53 481C9BE1BF4588C8AD62A7708394F4BA5030A046
+-rw------- 1 wangx users   2123 Aug 28 15:28 49B9408161A57C480FDC557B5F58C382944D9A50
+-rw------- 1 wangx users  12756 Aug 28 15:28 49E1D7EF831D1FB5A65B7673960C9F83BB8EF565
+-rw------- 1 wangx users   1236 Aug 28 14:47 4A218ECE7D82626E3D6519D1A19862F4C1A2D746
+-rw------- 1 wangx users  14104 Aug 28 14:47 4A80F718B8F162A2BCD07D1D66A9CD2908930AE3
+-rw------- 1 wangx users   3761 Aug 28 14:47 4C19B2B4145E5092CA243F0E9E5EC58FEC03FA25
+-rw------- 1 wangx users     98 Aug 28 14:52 4C815C6B583C313312AEE95C8C5033363936D4F6
+-rw------- 1 wangx users  12247 Aug 28 14:47 4E202A0403CBA1BC980B4FC03C23552F217A24AC
+-rw------- 1 wangx users  15591 Aug 28 14:47 4F46229E627CD49B1725B0659167132BC804F360
+-rw------- 1 wangx users  19106 Aug 28 14:47 50792FD3E41AFF8F0C2EA35BF2A6D4B7361FD3A0
+-rw------- 1 wangx users   9202 Aug 28 15:28 51A040DD7993A4B3D9D08BC6C750A27E4CC7370F
+-rw------- 1 wangx users   3261 Aug 28 15:28 51BC343D44C8888A4E5CD4E60740DC515C4F4879
+-rw------- 1 wangx users   5613 Aug 28 14:47 526F92DB9AF4DB701CB4E18BC2D1AA00AFE95D67
+-rw------- 1 wangx users  27242 Aug 28 14:47 54BD7208E20FF3E029F9792333749C79F2CCC7F0
+-rw------- 1 wangx users    415 Aug 28 15:28 577E0D703154D610396ED72532551C3980696C35
+-rw------- 1 wangx users   3926 Aug 28 14:47 580CF2ECF97BD8E247B691B9A2B30033E41A389E
+-rw------- 1 wangx users  14258 Aug 28 14:47 58D26FB6FCE81ACF59917793B1432C442369B7CC
+-rw------- 1 wangx users  18519 Aug 28 14:47 5C27271A662C9B450E7F4832456DC50A0EC634D5
+-rw------- 1 wangx users   8579 Aug 28 14:47 5D44AC703C53CC7EE6356F698FD1B03DA81FFE47
+-rw------- 1 wangx users    471 Aug 28 15:28 5D61324AC4333C07B5278DD1F4B28703A2EB6EB1
+-rw------- 1 wangx users  16757 Aug 28 14:47 5E4954707B44E5A4B4ACF5F22B52219A1DCA477F
+-rw------- 1 wangx users   3245 Aug 28 14:47 5FCDFC5049BDD15964D4586A88C29A86AA80268B
+-rw------- 1 wangx users   6303 Aug 28 15:28 610696E3DA10EB1ED5CD6EF9F04F6F154F514E68
+-rw------- 1 wangx users 161297 Aug 28 14:55 650A3159BCA4987DD5B1950095087AFC89EDFBF4
+-rw------- 1 wangx users   1234 Aug 28 14:47 680FB10032B4CC175E5B8AFDD6E77181FA7FB0F6
+-rw------- 1 wangx users   9801 Aug 28 14:47 695B12029F6E9D91BDFBF39A8054CE72E33F88FD
+-rw------- 1 wangx users  32646 Aug 28 15:28 69609A78BA214F95FA5F921C65A2544416C2E658
+-rw------- 1 wangx users   1322 Aug 28 14:47 69765EDE35913A03FCC17F50B06589F07D85B967
+-rw------- 1 wangx users  12265 Aug 28 14:47 6BD1ABC0C5DD8BB09E9CA7B938ED3AFB9A61FDDA
+-rw------- 1 wangx users  10545 Aug 28 14:47 6D6D1C751794A40ECB5111A3A00733B9B7920603
+-rw------- 1 wangx users    552 Aug 28 14:48 6E999D9658789855C1474CFBBB12B4C10B905223
+-rw------- 1 wangx users  16248 Aug 28 14:47 71710F0B2E18B606DDC65111940CFC81FB84A1CF
+-rw------- 1 wangx users   1324 Aug 28 14:55 71BC983ED0129176E7565F46D1EB1E78D23D892C
+-rw------- 1 wangx users    621 Aug 28 14:49 72F296A744EC7F775DAC470EA5843A5EAE5F6DF3
+-rw------- 1 wangx users  11015 Aug 28 14:47 735A7A611A4E52943D3CD999B58F2393482796AA
+-rw------- 1 wangx users  32440 Aug 28 15:28 744BEDEB6E86A3E6EBD99BF80E14D76135DDF96B
+-rw------- 1 wangx users  33871 Aug 28 14:47 7604C4EE811727100AB3F319A080F6A2F4E89550
+-rw------- 1 wangx users   2953 Aug 28 15:28 76084860FDD205A4E37E5425AB4C644570D0EE79
+-rw------- 1 wangx users   9423 Aug 28 14:47 76EF1292F45B28008B0E37EDAF898359BDA69EF7
+-rw------- 1 wangx users  18375 Aug 28 14:47 78A520FE200DD59F7079043C2E4494D582DB5E27
+-rw------- 1 wangx users   4328 Aug 28 14:47 793E8F1D42C3651671E980C0FB1343C2C4A858D2
+-rw------- 1 wangx users  61466 Aug 28 14:47 79957B4D7C573EED5006DA2FD59834D02CB4AEE8
+-rw------- 1 wangx users   3733 Aug 28 14:55 79B5202508FE78BE2F013A8E5C760DAE4EE0F4E5
+-rw------- 1 wangx users    761 Aug 28 14:52 7A7ABFAC4222D005438592A5176A531C034F5AB8
+-rw------- 1 wangx users   7495 Aug 28 14:47 7AEBB53383202B1A1E1A37D4077A23038F057626
+-rw------- 1 wangx users   3498 Aug 28 15:28 7B08E38AA673CB5A30F0ED31A0EF2F9BAE856B96
+-rw------- 1 wangx users 220657 Aug 28 14:55 7BC5C2025F544E50B3DE3549ADA4AA613D5C7842
+-rw------- 1 wangx users  10493 Aug 28 14:47 7D3B49963ED495B9B602090D697EF0346F09DF7D
+-rw------- 1 wangx users  69541 Aug 28 14:47 7EF7B23E7BBCC1D47AB7A0FB0E0E18010BB91F68
+-rw------- 1 wangx users  14359 Aug 28 14:47 7F546D0BE12E4D6DB503536706E74B4D4703566D
+-rw------- 1 wangx users  11708 Aug 28 14:47 815F3C0CEA1AFFC8F60A39C92EEF6460E1C58F28
+-rw------- 1 wangx users   1320 Aug 28 14:47 83327013795EE8772F1817B7FEEC07B07820105D
+-rw------- 1 wangx users  23009 Aug 28 14:47 85302FFD0819997E07EA81B22287D476F4740A88
+-rw------- 1 wangx users   8871 Aug 28 14:47 85AA952ECA36ECA1290D05D20D2BB52291B86DC7
+-rw------- 1 wangx users   1320 Aug 28 14:48 85C6BEEDD72AD1DC19D542447B0ED99E6128390C
+-rw------- 1 wangx users      2 Aug 28 15:28 85D4D330EC0A91C17B668E1AD013289C45757628
+-rw------- 1 wangx users   1320 Aug 28 14:53 867C98887F8EE99306268488E3C455A92D9CCA3D
+-rw------- 1 wangx users  96182 Aug 28 15:28 86A14FD83931D216767FDF138F619E0BE39B5F0F
+-rw------- 1 wangx users   6100 Aug 28 14:47 86BA9F195C41295A24B62ADE992E03AC26BDAE03
+-rw------- 1 wangx users   1320 Aug 28 14:47 8749511086749664A7B2079D859932C96239BB29
+-rw------- 1 wangx users  28095 Aug 28 14:47 88145434E01EFC523115F8E06AD428D8D5B2014E
+-rw------- 1 wangx users 516722 Aug 28 14:48 88501EF5595DDA9CF633105C8280693B0F4E93C5
+-rw------- 1 wangx users   7750 Aug 28 14:47 8A8AE221880E37E3578C4756DE8F32C9F635B935
+-rw------- 1 wangx users  11824 Aug 28 14:47 8D2FBA922A1BE7A96973BBC84CECD6BD6D2A4B12
+-rw------- 1 wangx users  99857 Aug 28 14:47 8DCAE7141DAA164A9F3CEF8A90C5D8AA38436457
+-rw------- 1 wangx users  10398 Aug 28 14:47 8EB189C5E67C4B2E41F017EE0DE425AF2F186191
+-rw------- 1 wangx users    723 Aug 28 15:28 8FB0A67B8D61627FA94A747C64CAFD496B9ECAC6
+-rw------- 1 wangx users   1320 Aug 28 14:47 912F2F80E5D3E586399AECB6F3F281E63E5255BB
+-rw------- 1 wangx users   5424 Aug 28 14:47 91986819B9C2C29AD0C06B10A0B1A9746B21C997
+-rw------- 1 wangx users    110 Aug 28 14:47 929BCF811537CE5A1B05BC367E7D5FCD9D1512C2
+-rw------- 1 wangx users  16104 Aug 28 14:47 9432CF97218F07188C0CBEAA0A2542FE6F02E1D7
+-rw------- 1 wangx users  77160 Aug 28 15:28 948060BD608F941B16A13B0D35AF852DCBD8F837
+-rw------- 1 wangx users   1322 Aug 28 14:47 96ABCEE1B439C607424799D95FCEDA24D3D03BE7
+-rw------- 1 wangx users    670 Aug 28 15:28 98A01A6EFA29B3DAC5EED77D0CEBEC54C9258902
+-rw------- 1 wangx users   7102 Aug 28 14:47 99622BE4EC7447C3FC65B921A101D610EEF68667
+-rw------- 1 wangx users   8697 Aug 28 14:47 9A3B1D63C1E632C8798A3154E6C650B522C5D3E4
+-rw------- 1 wangx users   8521 Aug 28 15:28 9BA1AC497A3FB532ED922F2333F829CCF223B8D9
+-rw------- 1 wangx users   9022 Aug 28 15:28 9E6B1D8C97DAD7830942A475B1107649AB4C6429
+-rw------- 1 wangx users   1236 Aug 28 14:47 A12D93DC45DD6D9D9FFDE10AFD9C22E328CFC62D
+-rw------- 1 wangx users    100 Aug 28 14:47 A862BDE317495E2D6D35B4932B8F5E7B85B4929A
+-rw------- 1 wangx users   1238 Aug 28 15:28 A8FE78D9F3EF74D212EB79AD22D3B72B920AEAA6
+-rw------- 1 wangx users  23217 Aug 28 14:55 AC3F27214CE49EDB200BD2C19E310751DF9BAB3B
+-rw------- 1 wangx users   6672 Aug 28 14:47 AD2C2C445398865B2EB9CA57A45525D5DBB7A9D2
+-rw------- 1 wangx users  11231 Aug 28 14:47 AE4DF4EE31BBFAF226D21BF44C9D37B0D0A0288F
+-rw------- 1 wangx users    363 Aug 28 15:28 AECA916EDABDFB3A3595F685D9AED7806A38DA6F
+-rw------- 1 wangx users  12211 Aug 28 14:47 AF206D199C2E59691D7399038D3DEE79359691EF
+-rw------- 1 wangx users   5982 Aug 28 14:47 AF74583C5521469A7454CC121C45415255ED72F0
+-rw------- 1 wangx users   7418 Aug 28 14:47 B2365FDDA715E15DF0B531289B1F39D6630091CF
+-rw------- 1 wangx users  33429 Aug 28 14:47 B32C5865A88F2CD8FDBF2030BCB0763B059A1088
+-rw------- 1 wangx users  95490 Aug 28 14:47 B3A60B925252CC57C6CD2EF1D50C727AEB3F6EF8
+-rw------- 1 wangx users  11512 Aug 28 14:47 B3B4D85758A6CCCD5914B25B30604C07B9FED859
+-rw------- 1 wangx users   7876 Aug 28 14:47 B6730818B785EB069F2899FDC00A6FB130852F22
+-rw------- 1 wangx users  18599 Aug 28 14:47 B6D518D8F5C7CD1EDA303B7B1A7138DC8A28B4C6
+-rw------- 1 wangx users   8926 Aug 28 14:47 B73E4A4438B9B71F020E7D4B54AE283770E47CA7
+-rw------- 1 wangx users   2123 Aug 28 15:28 B7E2A9FC4E737CA49BD93C33848FA9E53E75895F
+-rw------- 1 wangx users  14517 Aug 28 14:47 BAF4A87AF57C34B012C437C3ECBF7043A1DDAFB5
+-rw------- 1 wangx users   4624 Aug 28 14:55 BB95D0607349D05725D5FE01D4FB300E319072AD
+-rw------- 1 wangx users  31099 Aug 28 14:47 BBD928CCC2C34F7ED38B8F1F1A724F26AB654222
+-rw------- 1 wangx users  28095 Aug 28 14:47 BC01F60C94A20C912977925121867846B7C80EA1
+-rw------- 1 wangx users   1320 Aug 28 14:53 BD0D58E03F921C3FE41C0A129FF75EDF467309E1
+-rw------- 1 wangx users   5183 Aug 28 15:28 BD1BD18A36E874FB34026916968F9C50E8708DB7
+-rw------- 1 wangx users   4424 Aug 28 15:28 BE673784B6E134C02F872FD730570BBA792C866C
+-rw------- 1 wangx users  15458 Aug 28 14:47 BFA79A179370DD8C7EBF17509E149366A90F2C30
+-rw------- 1 wangx users   9483 Aug 28 14:47 C0890240A56C1322F49FA5E5E04C5D1B43C9B3BD
+-rw------- 1 wangx users   5464 Aug 28 14:47 C27D7A62FCB3822B15FE7A889EAC6EBCB8E81A80
+-rw------- 1 wangx users  13616 Aug 28 14:47 C3357B699A03D6C47624A0BC4184ED6E2B8D6443
+-rw------- 1 wangx users   5533 Aug 28 14:47 C3BAF8FAAC34DB9BE0379A732B9076F1B0F6F1C1
+-rw------- 1 wangx users   6867 Aug 28 15:28 C3C109A2A0CA69787875DCA80947F2109E8AEA57
+-rw------- 1 wangx users   5601 Aug 28 14:47 C48DF70BC4FC8DF627B3B46AE09DA5FC5FFE286D
+-rw------- 1 wangx users  10260 Aug 28 14:47 C49579469D1B66398B4EBA9022C067A815F466F7
+-rw------- 1 wangx users   3114 Aug 28 15:28 C5B0A0C5649E7FE951889EE32BA18E39079DF520
+-rw------- 1 wangx users  10263 Aug 28 14:47 C74284354F35DB7E4FA8E771747BF24AAEC6AC66
+-rw------- 1 wangx users   1225 Aug 28 15:28 C84D3D516C8A9132B05E217EE837B3596E475326
+-rw------- 1 wangx users   7833 Aug 28 15:28 C88B292F5CF99B51CA789417C2CB8348E50D9D38
+-rw------- 1 wangx users 344927 Aug 28 14:55 C972AC86BA22ADBFC038B134C02101C894D0078A
+-rw------- 1 wangx users  14375 Aug 28 14:47 C9D3332EEEEDE6F8E33B5CAC47554D8D72CE005D
+-rw------- 1 wangx users  10301 Aug 28 14:55 CB7F80280433DB6C2AB7523118AE32E9B0145B89
+-rw------- 1 wangx users   8936 Aug 28 14:47 CB8117F5C34E9BA61DECA84E8C2961582C1E771D
+-rw------- 1 wangx users   4029 Aug 28 14:47 CBD61C232F1E9FB23F948F054620C981E2A5121D
+-rw------- 1 wangx users   7434 Aug 28 14:47 CC039CF54B95ED306FA787C5919EDB4F0C52AD51
+-rw------- 1 wangx users   6763 Aug 28 14:47 CDF64536D1C166B392071D5E3432C8688376E49B
+-rw------- 1 wangx users   4425 Aug 28 15:28 D2792AA984D76A26552229644F514F7EE7E010A5
+-rw------- 1 wangx users   5793 Aug 28 14:47 D327EEC678DB0073434069F4D898C8E5901180F8
+-rw------- 1 wangx users   1320 Aug 28 14:47 D3CECE5626A47EE9E2A7D3358F12431DD751DB59
+-rw------- 1 wangx users   7663 Aug 28 15:28 D604E32D3DD7F7E568ED7CB4B014B09A4F0157FB
+-rw------- 1 wangx users  21453 Aug 28 14:47 D85050A2BA7C352EEF313CD99D8402E31A3C603E
+-rw------- 1 wangx users  40443 Aug 28 14:55 D87A520FAD1B63EA4D54E32F2406EBB69AD9D64B
+-rw------- 1 wangx users  31354 Aug 28 14:47 DB35F7B5C3B638134575506C1DECC7214B0152E3
+-rw------- 1 wangx users   7072 Aug 28 14:47 DB6C4C700A0665900BA3D2EB9CFB998C9C531D93
+-rw------- 1 wangx users   6878 Aug 28 14:47 DBC9F3CBBB754F80F4F5F255708032DBE08D61D5
+-rw------- 1 wangx users   9541 Aug 28 14:47 DE05BFA97942E2189D2B97F57EDCD77A71455003
+-rw------- 1 wangx users  20935 Aug 28 14:47 E24299CBE4A9C413C38CFEF39F1B807EAF33B393
+-rw------- 1 wangx users   8202 Aug 28 14:47 E5019B825F3DEE9E661A7F9879E1B00E27CCB510
+-rw------- 1 wangx users   5442 Aug 28 15:28 E532CD62A000FED61EC4BCB2CEEE120F871064EE
+-rw------- 1 wangx users   7969 Aug 28 15:28 E57F851BAD65DA3DAA54F12476D073284CACFA08
+-rw------- 1 wangx users  26559 Aug 28 14:47 E595FD3EC86BCBEEF64AC39DEF592EC45EC9B07E
+-rw------- 1 wangx users   5669 Aug 28 14:47 E9456B5D61EE3D994CCF5330B46875E378CCC530
+-rw------- 1 wangx users   6670 Aug 28 14:53 ED272091F0D9ECF41C184598A2ABB0B90A18254A
+-rw------- 1 wangx users    769 Aug 28 15:28 EDE531D340211EB266497D1944CF51866293D590
+-rw------- 1 wangx users  52834 Aug 28 15:28 EEEAA49357E814D200EB897579D13546FC6357A1
+-rw------- 1 wangx users  14987 Aug 28 14:47 F013461617CC59EBEDEBAD6AFB04A01BCBEFC7B3
+-rw------- 1 wangx users  25490 Aug 28 14:47 F0AEB0B5717255504EB53606654B60011D95FB31
+-rw------- 1 wangx users  38222 Aug 28 14:47 F16EB113C0A491116525EB0DC34262261BBD1753
+-rw------- 1 wangx users   5129 Aug 28 14:47 F1B5C3EDE100D4A38A0A28F1CEF6FAEFB619EC1B
+-rw------- 1 wangx users  11488 Aug 28 14:47 F3923FB10645519FF80DE7C6A8DF01CAB20906A4
+-rw------- 1 wangx users   7828 Aug 28 14:47 F721E4074B50AFE8C182B8AC3D795638F5FD526C
+-rw------- 1 wangx users   4832 Aug 28 14:47 FCF8684496C13381471F321DF07DF3CED6F26323
+-rw------- 1 wangx users  10995 Aug 28 14:47 FFB63C5620027FC1F9D764DF4DA986072EDD4D54
+
+/home/wangx/.cache/mozilla/firefox/okaffgnb.default/OfflineCache:
+total 264
+drwx------ 2 wangx users   4096 Aug 28 14:47 .
+drwx------ 7 wangx users   4096 Aug 28 15:16 ..
+-rw------- 1 wangx users 262144 Aug 28 14:47 index.sqlite
+
+/home/wangx/.cache/mozilla/firefox/okaffgnb.default/safebrowsing:
+total 3748
+drwx--x--x 2 wangx users    4096 Aug 28 15:16 .
+drwx------ 7 wangx users    4096 Aug 28 15:16 ..
+-rw------- 1 wangx users      16 Aug 28 15:16 base-track-digest256.pset
+-rw------- 1 wangx users   62008 Aug 28 15:16 base-track-digest256.sbstore
+-rw------- 1 wangx users   92456 Aug 28 15:16 goog-badbinurl-shavar.pset
+-rw------- 1 wangx users   55879 Aug 28 15:16 goog-badbinurl-shavar.sbstore
+-rw------- 1 wangx users  465416 Aug 28 15:16 goog-malware-shavar.pset
+-rw------- 1 wangx users 1056061 Aug 28 15:16 goog-malware-shavar.sbstore
+-rw------- 1 wangx users  431854 Aug 28 15:16 goog-phish-shavar.pset
+-rw------- 1 wangx users  578601 Aug 28 15:16 goog-phish-shavar.sbstore
+-rw------- 1 wangx users  303270 Aug 28 15:16 goog-unwanted-shavar.pset
+-rw------- 1 wangx users  295959 Aug 28 15:16 goog-unwanted-shavar.sbstore
+-rw------- 1 wangx users      16 Aug 28 15:16 mozplugin-block-digest256.pset
+-rw------- 1 wangx users    3580 Aug 28 15:16 mozplugin-block-digest256.sbstore
+-rw------- 1 wangx users      16 Aug 28 15:16 mozstd-trackwhite-digest256.pset
+-rw------- 1 wangx users  350224 Aug 28 15:16 mozstd-trackwhite-digest256.sbstore
+-rw------- 1 wangx users      16 Aug 28 15:16 test-block-simple.pset
+-rw------- 1 wangx users     232 Aug 28 15:16 test-block-simple.sbstore
+-rw------- 1 wangx users      16 Aug 28 15:16 testexcept-flashallow-simple.pset
+-rw------- 1 wangx users     232 Aug 28 15:16 testexcept-flashallow-simple.sbstore
+-rw------- 1 wangx users      16 Aug 28 15:16 testexcept-flash-simple.pset
+-rw------- 1 wangx users     232 Aug 28 15:16 testexcept-flash-simple.sbstore
+-rw------- 1 wangx users      16 Aug 28 15:16 testexcept-flashsubdoc-simple.pset
+-rw------- 1 wangx users     232 Aug 28 15:16 testexcept-flashsubdoc-simple.sbstore
+-rw------- 1 wangx users      16 Aug 28 15:16 test-flashallow-simple.pset
+-rw------- 1 wangx users     232 Aug 28 15:16 test-flashallow-simple.sbstore
+-rw------- 1 wangx users      16 Aug 28 15:16 test-flash-simple.pset
+-rw------- 1 wangx users     232 Aug 28 15:16 test-flash-simple.sbstore
+-rw------- 1 wangx users      16 Aug 28 15:16 test-flashsubdoc-simple.pset
+-rw------- 1 wangx users     232 Aug 28 15:16 test-flashsubdoc-simple.sbstore
+-rw------- 1 wangx users      16 Aug 28 15:16 test-malware-simple.pset
+-rw------- 1 wangx users     232 Aug 28 15:16 test-malware-simple.sbstore
+-rw------- 1 wangx users      16 Aug 28 15:16 test-phish-simple.pset
+-rw------- 1 wangx users     232 Aug 28 15:16 test-phish-simple.sbstore
+-rw------- 1 wangx users      16 Aug 28 15:16 test-track-simple.pset
+-rw------- 1 wangx users     272 Aug 28 15:16 test-track-simple.sbstore
+-rw------- 1 wangx users      16 Aug 28 15:16 test-trackwhite-simple.pset
+-rw------- 1 wangx users     232 Aug 28 15:16 test-trackwhite-simple.sbstore
+-rw------- 1 wangx users      16 Aug 28 15:16 test-unwanted-simple.pset
+-rw------- 1 wangx users     232 Aug 28 15:16 test-unwanted-simple.sbstore
+
+/home/wangx/.cache/mozilla/firefox/okaffgnb.default/startupCache:
+total 1544
+drwx--x--x 2 wangx users    4096 Aug 28 14:48 .
+drwx------ 7 wangx users    4096 Aug 28 15:16 ..
+-rw------- 1 wangx users 1571222 Aug 28 14:48 startupCache.8.little
+
+/home/wangx/.cache/mozilla/firefox/okaffgnb.default/thumbnails:
+total 84
+drwx------ 2 wangx users  4096 Aug 28 14:47 .
+drwx------ 7 wangx users  4096 Aug 28 15:16 ..
+-rw------- 1 wangx users 75129 Aug 28 14:47 b16857f4b0480f8a430d6343a4c1532b.png
+
+/home/wangx/.cache/vmware:
+total 12
+drwx------ 3 wangx users 4096 Aug 28 14:28 .
+drwxr-xr-x 9 wangx users 4096 Aug 28 14:47 ..
+drwx------ 2 wangx users 4096 Aug 28 14:28 cds
+
+/home/wangx/.cache/vmware/cds:
+total 8
+drwx------ 2 wangx users 4096 Aug 28 14:28 .
+drwx------ 3 wangx users 4096 Aug 28 14:28 ..
+
+/home/wangx/.config:
+total 52
+drwxr-xr-x 11 wangx users 4096 Aug 28 14:56 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+drwxr-xr-x  2 wangx users 4096 Aug 25 13:50 abrt
+drwxr-xr-x  3 wangx users 4096 Aug 28 16:30 caja
+drwxr-xr-x  2 wangx users 4096 Aug 28 16:30 dconf
+drwx------  2 wangx users 4096 Nov 26 15:55 gconf
+drwxr-xr-x  2 wangx users 4096 Aug 28 14:26 goa-1.0
+drwx------  2 wangx users 4096 Aug 28 16:18 gtk-2.0
+drwx------  2 wangx users 4096 Aug 28 14:45 htop
+drwxr-xr-x  2 wangx users 4096 Aug 28 14:26 imsettings
+drwx------  2 wangx users 4096 Aug 28 14:26 pulse
+-rw-------  1 wangx users  632 Aug 28 14:26 user-dirs.dirs
+-rw-r--r--  1 wangx users    5 Aug 28 14:26 user-dirs.locale
+
+/home/wangx/.config/abrt:
+total 8
+drwxr-xr-x  2 wangx users 4096 Aug 25 13:50 .
+drwxr-xr-x 11 wangx users 4096 Aug 28 14:56 ..
+
+/home/wangx/.config/caja:
+total 28
+drwxr-xr-x  3 wangx users 4096 Aug 28 16:30 .
+drwxr-xr-x 11 wangx users 4096 Aug 28 14:56 ..
+-rw-------  1 wangx users 8754 Aug 28 14:27 accels
+-rw-------  1 wangx users  404 Aug 28 16:30 desktop-metadata
+drwx--x--x  2 wangx users 4096 Aug 28 14:26 scripts
+
+/home/wangx/.config/caja/scripts:
+total 8
+drwx--x--x 2 wangx users 4096 Aug 28 14:26 .
+drwxr-xr-x 3 wangx users 4096 Aug 28 16:30 ..
+
+/home/wangx/.config/dconf:
+total 16
+drwxr-xr-x  2 wangx users 4096 Aug 28 16:30 .
+drwxr-xr-x 11 wangx users 4096 Aug 28 14:56 ..
+-rw-r--r--  1 wangx users 6675 Aug 28 16:10 user
+
+/home/wangx/.config/gconf:
+total 8
+drwx------  2 wangx users 4096 Nov 26 15:55 .
+drwxr-xr-x 11 wangx users 4096 Aug 28 14:56 ..
+
+/home/wangx/.config/goa-1.0:
+total 8
+drwxr-xr-x  2 wangx users 4096 Aug 28 14:26 .
+drwxr-xr-x 11 wangx users 4096 Aug 28 14:56 ..
+
+/home/wangx/.config/gtk-2.0:
+total 12
+drwx------  2 wangx users 4096 Aug 28 16:18 .
+drwxr-xr-x 11 wangx users 4096 Aug 28 14:56 ..
+-rw-rw-rw-  1 wangx users  203 Aug 28 16:18 gtkfilechooser.ini
+
+/home/wangx/.config/htop:
+total 12
+drwx------  2 wangx users 4096 Aug 28 14:45 .
+drwxr-xr-x 11 wangx users 4096 Aug 28 14:56 ..
+-rw-------  1 wangx users  669 Aug 28 14:45 htoprc
+
+/home/wangx/.config/imsettings:
+total 8
+drwxr-xr-x  2 wangx users 4096 Aug 28 14:26 .
+drwxr-xr-x 11 wangx users 4096 Aug 28 14:56 ..
+
+/home/wangx/.config/pulse:
+total 84
+drwx------  2 wangx users  4096 Aug 28 14:26 .
+drwxr-xr-x 11 wangx users  4096 Aug 28 14:56 ..
+-rw-r--r--  1 wangx users 40960 Aug 28 14:27 732277f6c28446bbbb474157fdc05ff8-card-database.tdb
+-rw-r--r--  1 wangx users    43 Aug 28 14:26 732277f6c28446bbbb474157fdc05ff8-default-sink
+-rw-r--r--  1 wangx users    42 Aug 28 14:26 732277f6c28446bbbb474157fdc05ff8-default-source
+-rw-r--r--  1 wangx users 12288 Aug 28 14:27 732277f6c28446bbbb474157fdc05ff8-device-volumes.tdb
+-rw-r--r--  1 wangx users 12288 Aug 28 15:07 732277f6c28446bbbb474157fdc05ff8-stream-volumes.tdb
+-rw-------  1 wangx users   256 Aug 28 14:26 cookie
+
+/home/wangx/.dbus:
+total 12
+drwx------  3 wangx users 4096 Nov  1 11:20 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+drwx------  2 wangx users 4096 Nov  8 11:12 session-bus
+
+/home/wangx/.dbus/session-bus:
+total 16
+drwx------ 2 wangx users 4096 Nov  8 11:12 .
+drwx------ 3 wangx users 4096 Nov  1 11:20 ..
+-rw------- 1 wangx users  476 Nov 26 15:54 a6094b948329410caa277c4230f72375-10
+-rw------- 1 wangx users  477 Nov  7 14:06 bd35983b86c84c5b8b95727f939218a6-10
+
+/home/wangx/Desktop:
+total 8
+drwxr-xr-x  2 wangx users 4096 Aug 28 14:26 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+
+/home/wangx/Documents:
+total 8
+drwxr-xr-x  2 wangx users 4096 Aug 28 14:26 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+
+/home/wangx/Downloads:
+total 8
+drwxr-xr-x  2 wangx users 4096 Aug 28 14:26 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+
+/home/wangx/.emacs.d:
+total 12
+drwx------  3 wangx users 4096 Aug 31 15:16 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+drwx------  2 wangx users 4096 Aug 31 17:57 auto-save-list
+
+/home/wangx/.emacs.d/auto-save-list:
+total 8
+drwx------ 2 wangx users 4096 Aug 31 17:57 .
+drwx------ 3 wangx users 4096 Aug 31 15:16 ..
+
+/home/wangx/.local:
+total 12
+drwx------  3 wangx users 4096 Aug 28 14:26 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+drwx------  4 wangx users 4096 Aug 28 16:30 share
+
+/home/wangx/.local/share:
+total 20
+drwx------ 4 wangx users 4096 Aug 28 16:30 .
+drwx------ 3 wangx users 4096 Aug 28 14:26 ..
+-rw------- 1 wangx users    0 Aug 28 14:26 .converted-launchers
+drwx------ 2 wangx users 4096 Aug 28 14:26 keyrings
+-rw------- 1 wangx users  218 Aug 28 16:30 recently-used.xbel
+drwx------ 3 wangx users 4096 Aug 28 14:26 telepathy
+
+/home/wangx/.local/share/keyrings:
+total 16
+drwx------ 2 wangx users 4096 Aug 28 14:26 .
+drwx------ 4 wangx users 4096 Aug 28 16:30 ..
+-rw------- 1 wangx users  105 Aug 28 14:26 login.keyring
+-rw------- 1 wangx users  207 Aug 28 14:26 user.keystore
+
+/home/wangx/.local/share/telepathy:
+total 12
+drwx------ 3 wangx users 4096 Aug 28 14:26 .
+drwx------ 4 wangx users 4096 Aug 28 16:30 ..
+drwx------ 2 wangx users 4096 Aug 28 14:26 mission-control
+
+/home/wangx/.local/share/telepathy/mission-control:
+total 16
+drwx------ 2 wangx users 4096 Aug 28 14:26 .
+drwx------ 3 wangx users 4096 Aug 28 14:26 ..
+-rw------- 1 wangx users   21 Aug 28 14:26 accounts.cfg
+-rw------- 1 wangx users   38 Aug 28 14:26 accounts-goa.cfg
+
+/home/wangx/.mozilla:
+total 20
+drwxr-xr-x  5 wangx users 4096 Aug 28 14:47 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+drwxr-xr-x  3 wangx users 4096 Aug 28 14:47 extensions
+drwx------  3 wangx users 4096 Aug 28 14:47 firefox
+drwxr-xr-x  2 wangx users 4096 Jun  9  2014 plugins
+
+/home/wangx/.mozilla/extensions:
+total 12
+drwxr-xr-x 3 wangx users 4096 Aug 28 14:47 .
+drwxr-xr-x 5 wangx users 4096 Aug 28 14:47 ..
+drwx--x--x 2 wangx users 4096 Aug 28 14:47 {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+/home/wangx/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}:
+total 8
+drwx--x--x 2 wangx users 4096 Aug 28 14:47 .
+drwxr-xr-x 3 wangx users 4096 Aug 28 14:47 ..
+
+/home/wangx/.mozilla/firefox:
+total 16
+drwx------ 3 wangx users 4096 Aug 28 14:47 .
+drwxr-xr-x 5 wangx users 4096 Aug 28 14:47 ..
+drwx------ 8 wangx users 4096 Aug 28 15:28 okaffgnb.default
+-rw------- 1 wangx users  104 Aug 28 14:47 profiles.ini
+
+/home/wangx/.mozilla/firefox/okaffgnb.default:
+total 13900
+drwx------ 8 wangx users     4096 Aug 28 15:28 .
+drwx------ 3 wangx users     4096 Aug 28 14:47 ..
+-rw------- 1 wangx users       24 Aug 28 14:53 addons.json
+-rw------- 1 wangx users        0 Aug 28 15:28 AlternateServices.txt
+-rw------- 1 wangx users   463109 Aug 28 14:55 blocklist-addons.json
+-rw------- 1 wangx users    27953 Aug 28 14:55 blocklist-gfx.json
+-rw------- 1 wangx users   209995 Aug 28 14:55 blocklist-plugins.json
+-rw------- 1 wangx users   280169 Aug 28 14:55 blocklist.xml
+drwx------ 2 wangx users     4096 Aug 28 15:12 bookmarkbackups
+-rw------- 1 wangx users    65536 Aug 28 15:28 cert8.db
+-rw------- 1 wangx users      186 Aug 28 14:47 compatibility.ini
+-rw------- 1 wangx users      809 Aug 28 14:47 containers.json
+-rw------- 1 wangx users   229376 Aug 28 14:47 content-prefs.sqlite
+-rw------- 1 wangx users   524288 Aug 28 15:28 cookies.sqlite
+drwx------ 3 wangx users     4096 Aug 28 15:28 datareporting
+-rw------- 1 wangx users      165 Aug 28 14:47 extensions.ini
+-rw------- 1 wangx users     5677 Aug 28 14:57 extensions.json
+-rw------- 1 wangx users   196608 Aug 28 15:11 formhistory.sqlite
+drwx------ 2 wangx users     4096 Aug 28 14:47 gmp
+drwx--x--x 3 wangx users     4096 Aug 28 14:48 gmp-gmpopenh264
+-rw------- 1 wangx users   131072 Aug 28 15:28 key3.db
+-rw------- 1 wangx users  1081344 Aug 28 14:55 kinto.sqlite
+-rw------- 1 wangx users     3824 Aug 28 14:47 mimeTypes.rdf
+-rw------- 1 wangx users        0 Aug 28 14:47 .parentlock
+-rw------- 1 wangx users    98304 Aug 28 14:47 permissions.sqlite
+-rw------- 1 wangx users 10485760 Aug 28 15:28 places.sqlite
+-rw------- 1 wangx users    32768 Aug 28 15:28 places.sqlite-shm
+-rw------- 1 wangx users   131200 Aug 28 15:28 places.sqlite-wal
+-rw------- 1 wangx users     3172 Aug 28 14:47 pluginreg.dat
+-rw------- 1 wangx users     8439 Aug 28 15:28 prefs.js
+-rw------- 1 wangx users    25098 Aug 28 14:55 revocations.txt
+-rw------- 1 wangx users    24982 Aug 28 14:47 search.json.mozlz4
+-rw------- 1 wangx users   131072 Aug 28 14:47 secmod.db
+-rw------- 1 wangx users        0 Aug 28 15:28 SecurityPreloadState.txt
+-rw------- 1 wangx users      288 Aug 28 15:28 sessionCheckpoints.json
+drwx------ 2 wangx users     4096 Aug 28 15:28 sessionstore-backups
+-rw------- 1 wangx users     8657 Aug 28 15:28 sessionstore.js
+-rw------- 1 wangx users      454 Aug 28 15:28 SiteSecurityServiceState.txt
+drwx--x--x 3 wangx users     4096 Aug 28 14:47 storage
+-rw------- 1 wangx users      512 Aug 28 14:47 storage.sqlite
+-rwx------ 1 wangx users       29 Aug 28 14:47 times.json
+-rw------- 1 wangx users    98304 Aug 28 15:28 webappsstore.sqlite
+-rw------- 1 wangx users      263 Aug 28 15:28 xulstore.json
+
+/home/wangx/.mozilla/firefox/okaffgnb.default/bookmarkbackups:
+total 12
+drwx------ 2 wangx users 4096 Aug 28 15:12 .
+drwx------ 8 wangx users 4096 Aug 28 15:28 ..
+-rw------- 1 wangx users 1312 Aug 28 15:12 bookmarks-2017-08-28_14_rWr2RuJxwtL7v0TvlWaWNQ==.jsonlz4
+
+/home/wangx/.mozilla/firefox/okaffgnb.default/datareporting:
+total 20
+drwx------ 3 wangx users 4096 Aug 28 15:28 .
+drwx------ 8 wangx users 4096 Aug 28 15:28 ..
+drwx------ 3 wangx users 4096 Aug 28 15:28 archived
+-rw------- 1 wangx users  135 Aug 28 14:48 session-state.json
+-rw------- 1 wangx users   51 Aug 28 14:48 state.json
+
+/home/wangx/.mozilla/firefox/okaffgnb.default/datareporting/archived:
+total 12
+drwx------ 3 wangx users 4096 Aug 28 15:28 .
+drwx------ 3 wangx users 4096 Aug 28 15:28 ..
+drwx------ 2 wangx users 4096 Aug 28 15:28 2017-08
+
+/home/wangx/.mozilla/firefox/okaffgnb.default/datareporting/archived/2017-08:
+total 16
+drwx------ 2 wangx users 4096 Aug 28 15:28 .
+drwx------ 3 wangx users 4096 Aug 28 15:28 ..
+-rw------- 1 wangx users 5017 Aug 28 15:28 1503948511107.7c459dce-2c95-462a-83e4-ccb51b3a4661.main.jsonlz4
+
+/home/wangx/.mozilla/firefox/okaffgnb.default/gmp:
+total 8
+drwx------ 2 wangx users 4096 Aug 28 14:47 .
+drwx------ 8 wangx users 4096 Aug 28 15:28 ..
+
+/home/wangx/.mozilla/firefox/okaffgnb.default/gmp-gmpopenh264:
+total 12
+drwx--x--x 3 wangx users 4096 Aug 28 14:48 .
+drwx------ 8 wangx users 4096 Aug 28 15:28 ..
+drwx--x--x 2 wangx users 4096 Aug 28 14:48 1.6
+
+/home/wangx/.mozilla/firefox/okaffgnb.default/gmp-gmpopenh264/1.6:
+total 1356
+drwx--x--x 2 wangx users    4096 Aug 28 14:48 .
+drwx--x--x 3 wangx users    4096 Aug 28 14:48 ..
+-rwx------ 1 wangx users     116 Jul 29  2016 gmpopenh264.info
+-rwx--x--x 1 wangx users 1373839 Jul 29  2016 libgmpopenh264.so
+
+/home/wangx/.mozilla/firefox/okaffgnb.default/sessionstore-backups:
+total 8
+drwx------ 2 wangx users 4096 Aug 28 15:28 .
+drwx------ 8 wangx users 4096 Aug 28 15:28 ..
+
+/home/wangx/.mozilla/firefox/okaffgnb.default/storage:
+total 12
+drwx--x--x 3 wangx users 4096 Aug 28 14:47 .
+drwx------ 8 wangx users 4096 Aug 28 15:28 ..
+drwx--x--x 3 wangx users 4096 Aug 28 14:47 permanent
+
+/home/wangx/.mozilla/firefox/okaffgnb.default/storage/permanent:
+total 12
+drwx--x--x 3 wangx users 4096 Aug 28 14:47 .
+drwx--x--x 3 wangx users 4096 Aug 28 14:47 ..
+drwx--x--x 3 wangx users 4096 Aug 28 14:47 chrome
+
+/home/wangx/.mozilla/firefox/okaffgnb.default/storage/permanent/chrome:
+total 20
+drwx--x--x 3 wangx users 4096 Aug 28 14:47 .
+drwx--x--x 3 wangx users 4096 Aug 28 14:47 ..
+drwx--x--x 3 wangx users 4096 Aug 28 15:11 idb
+-rw------- 1 wangx users   29 Aug 28 14:47 .metadata
+-rw------- 1 wangx users   42 Aug 28 14:47 .metadata-v2
+
+/home/wangx/.mozilla/firefox/okaffgnb.default/storage/permanent/chrome/idb:
+total 60
+drwx--x--x 3 wangx users  4096 Aug 28 15:11 .
+drwx--x--x 3 wangx users  4096 Aug 28 14:47 ..
+drwx--x--x 2 wangx users  4096 Aug 28 14:47 2918063365piupsah.files
+-rw------- 1 wangx users 49152 Aug 28 14:47 2918063365piupsah.sqlite
+
+/home/wangx/.mozilla/firefox/okaffgnb.default/storage/permanent/chrome/idb/2918063365piupsah.files:
+total 8
+drwx--x--x 2 wangx users 4096 Aug 28 14:47 .
+drwx--x--x 3 wangx users 4096 Aug 28 15:11 ..
+
+/home/wangx/.mozilla/plugins:
+total 8
+drwxr-xr-x 2 wangx users 4096 Jun  9  2014 .
+drwxr-xr-x 5 wangx users 4096 Aug 28 14:47 ..
+
+/home/wangx/Music:
+total 8
+drwxr-xr-x  2 wangx users 4096 Aug 28 14:26 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+
+/home/wangx/.oracle_jre_usage:
+total 12
+drwx--x--x  2 wangx users 4096 Sep 30 11:04 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+-rw-------  1 wangx users   41 Oct 21 16:26 aa694b02fb358a71.timestamp
+
+/home/wangx/Pictures:
+total 8
+drwxr-xr-x  2 wangx users 4096 Aug 28 14:26 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+
+/home/wangx/Public:
+total 8
+drwxr-xr-x  2 wangx users 4096 Aug 28 14:26 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+
+/home/wangx/public_html:
+total 24
+drwx---r-x  3 wangx users 4096 Sep  6 17:06 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+-rwx---r-x  1 wangx users   12 Aug 28 14:46 index.html
+-rwx--xr-x  1 wangx users  359 Sep  5 14:14 send_email.php
+-rwx--xr-x  1 wangx users  672 Sep  5 16:10 send_mail.html
+drwx--x--x  4 wangx users 4096 Sep  8 13:53 teaching
+
+/home/wangx/public_html/teaching:
+total 1440
+drwx--x--x 4 wangx users    4096 Sep  8 13:53 .
+drwx---r-x 3 wangx users    4096 Sep  6 17:06 ..
+drwx--x--x 2 wangx users    4096 Nov  1 13:12 cis458
+drwx--x--x 2 wangx users    4096 Sep  5 14:07 phishing
+-rwxr-xr-x 1 wangx users 1454090 Sep  8 13:53 pic_lab02.bmp
+
+/home/wangx/public_html/teaching/cis458:
+total 4312
+drwx--x--x 2 wangx users    4096 Nov  1 13:12 .
+drwx--x--x 4 wangx users    4096 Sep  8 13:53 ..
+-rw------- 1 wangx users      59 Nov  1 13:12 h.c
+-rwxr-xr-x 1 wangx users    8512 Nov  1 13:12 hello
+-rwxr-xr-x 1 wangx users     205 Oct 18 12:39 part1a.txt
+-rwxr-xr-x 1 wangx users     205 Oct 18 12:39 part1.txt
+-rwxr-xr-x 1 wangx users    1671 Oct 18 12:39 part2.txt
+-rwxr-xr-x 1 wangx users 1454096 Sep  8 14:57 pic-aes-128-cbc.bmp
+-rwxr-xr-x 1 wangx users 1454096 Sep  8 14:57 pic-aes-128-ecb.bmp
+-rwxr-xr-x 1 wangx users 1454090 Sep  8 14:33 pic_lab02.bmp
+-rwxr-xr-x 1 wangx users      44 Oct 18 12:39 rules.conf
+
+/home/wangx/public_html/teaching/phishing:
+total 16
+drwx--x--x 2 wangx users 4096 Sep  5 14:07 .
+drwx--x--x 4 wangx users 4096 Sep  8 13:53 ..
+-rw------- 1 wangx users  359 Sep  5 13:49 send_email.php
+-rw------- 1 wangx users  671 Sep  5 14:07 send_mail.html
+
+/home/wangx/Templates:
+total 8
+drwxr-xr-x  2 wangx users 4096 Aug 28 14:26 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+
+/home/wangx/Videos:
+total 8
+drwxr-xr-x  2 wangx users 4096 Aug 28 14:26 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+
+/home/wangx/.vim:
+total 12
+drwx--x--x  2 wangx users 4096 Oct 31 16:44 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+-rw-------  1 wangx users  120 Oct 31 16:44 .netrwhist
+
+/home/wangx/.vms:
+total 24
+drwx--x--x  6 wangx users 4096 Nov 22 04:44 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+drwx--x--x  2 wangx users 4096 Nov 22 04:44 CentOS7_individual
+drwx--x--x  2 wangx users 4096 Aug 28 16:29 CentOS7_individual1
+drwx--x--x  2 wangx users 4096 Aug 28 16:29 CentOS7_individual2
+drwx--x--x  2 wangx users 4096 Nov 26 17:26 Seed_individual
+
+/home/wangx/.vms/CentOS7_individual:
+total 2080
+drwx--x--x 2 wangx users    4096 Nov 22 04:44 .
+drwx--x--x 6 wangx users    4096 Nov 22 04:44 ..
+-rwxr-xr-x 1 wangx users 2686976 Jan 30  2017 CentOS7-cl1.vmdk
+-rwxr-xr-x 1 wangx users    8684 Jan 30  2017 CentOS7_individual.nvram
+-rwxr-xr-x 1 wangx users     142 Jan 30  2017 CentOS7_individual.vmsd
+-rwx------ 1 wangx users    2586 Jan 30  2017 CentOS7_individual.vmx
+-rwxr-xr-x 1 wangx users     273 Jan 30  2017 CentOS7_individual.vmxf
+
+/home/wangx/.vms/CentOS7_individual1:
+total 1084176
+drwx--x--x 2 wangx users       4096 Aug 28 16:29 .
+drwx--x--x 6 wangx users       4096 Nov 22 04:44 ..
+-rwxr-xr-x 1 wangx users 1110048768 Aug 28 16:28 CentOS7-cl1.vmdk
+-rwxr-xr-x 1 wangx users       8684 Aug 28 16:28 CentOS7_individual.nvram
+-rwxr-xr-x 1 wangx users        142 Jan 30  2017 CentOS7_individual.vmsd
+-rwx------ 1 wangx users       2687 Aug 28 16:28 CentOS7_individual.vmx
+-rwxr-xr-x 1 wangx users        273 Jan 30  2017 CentOS7_individual.vmxf
+-rw------- 1 wangx users     328761 Aug 28 16:10 vmware-0.log
+-rw------- 1 wangx users     280457 Aug 28 16:28 vmware.log
+
+/home/wangx/.vms/CentOS7_individual2:
+total 37720
+drwx--x--x 2 wangx users     4096 Aug 28 16:29 .
+drwx--x--x 6 wangx users     4096 Nov 22 04:44 ..
+-rwxr-xr-x 1 wangx users 38535168 Aug 28 16:29 CentOS7-cl1.vmdk
+-rwxr-xr-x 1 wangx users     8684 Aug 28 16:29 CentOS7_individual.nvram
+-rwxr-xr-x 1 wangx users      142 Jan 30  2017 CentOS7_individual.vmsd
+-rwx------ 1 wangx users     2687 Aug 28 16:29 CentOS7_individual.vmx
+-rwxr-xr-x 1 wangx users      273 Jan 30  2017 CentOS7_individual.vmxf
+-rw------- 1 wangx users   305555 Aug 28 16:17 vmware-0.log
+-rw------- 1 wangx users   257188 Aug 28 16:29 vmware.log
+
+/home/wangx/.vms/Seed_individual:
+total 1313740
+drwx--x--x 2 wangx users      4096 Nov 26 17:26 .
+drwx--x--x 6 wangx users      4096 Nov 22 04:44 ..
+-rwxr-xr-x 1 wangx users      8684 Nov 26 17:26 Seed_individual.nvram
+-rwxr-xr-x 1 wangx users       152 Jan 30  2017 Seed_individual.vmsd
+-rwx------ 1 wangx users      3291 Nov 26 17:26 Seed_individual.vmx
+-rwxr-xr-x 1 wangx users      3448 Nov 15 22:21 Seed_individual.vmxf
+-rwxr-xr-x 1 wangx users 661848064 Nov 26 17:26 SEEDUbuntu12.04-cl1-s001.vmdk
+-rwxr-xr-x 1 wangx users 134479872 Nov 26 17:26 SEEDUbuntu12.04-cl1-s002.vmdk
+-rwxr-xr-x 1 wangx users  49741824 Nov 26 17:26 SEEDUbuntu12.04-cl1-s003.vmdk
+-rwxr-xr-x 1 wangx users   4980736 Nov 26 17:26 SEEDUbuntu12.04-cl1-s004.vmdk
+-rwxr-xr-x 1 wangx users   2883584 Nov 26 17:18 SEEDUbuntu12.04-cl1-s005.vmdk
+-rwxr-xr-x 1 wangx users   3407872 Nov 26 17:26 SEEDUbuntu12.04-cl1-s006.vmdk
+-rwxr-xr-x 1 wangx users  19136512 Nov 26 17:26 SEEDUbuntu12.04-cl1-s007.vmdk
+-rwxr-xr-x 1 wangx users  18546688 Nov 26 17:26 SEEDUbuntu12.04-cl1-s008.vmdk
+-rwxr-xr-x 1 wangx users   4653056 Nov 26 16:06 SEEDUbuntu12.04-cl1-s009.vmdk
+-rwxr-xr-x 1 wangx users 136445952 Nov 26 17:26 SEEDUbuntu12.04-cl1-s010.vmdk
+-rwxr-xr-x 1 wangx users  74121216 Nov 26 17:26 SEEDUbuntu12.04-cl1-s011.vmdk
+-rwxr-xr-x 1 wangx users   9043968 Nov 26 17:26 SEEDUbuntu12.04-cl1-s012.vmdk
+-rwxr-xr-x 1 wangx users   2162688 Nov 15 23:38 SEEDUbuntu12.04-cl1-s013.vmdk
+-rwxr-xr-x 1 wangx users 210305024 Nov 26 17:26 SEEDUbuntu12.04-cl1-s014.vmdk
+-rwxr-xr-x 1 wangx users   1048576 Nov 26 17:26 SEEDUbuntu12.04-cl1-s015.vmdk
+-rwxr-xr-x 1 wangx users    524288 Jan 30  2017 SEEDUbuntu12.04-cl1-s016.vmdk
+-rwxr-xr-x 1 wangx users   5046272 Nov 26 17:26 SEEDUbuntu12.04-cl1-s017.vmdk
+-rwxr-xr-x 1 wangx users    524288 Jan 30  2017 SEEDUbuntu12.04-cl1-s018.vmdk
+-rwxr-xr-x 1 wangx users    720896 Nov 26 16:01 SEEDUbuntu12.04-cl1-s019.vmdk
+-rwxr-xr-x 1 wangx users   4063232 Nov 26 16:06 SEEDUbuntu12.04-cl1-s020.vmdk
+-rwxr-xr-x 1 wangx users    131072 Jan 30  2017 SEEDUbuntu12.04-cl1-s021.vmdk
+-rwxr-xr-x 1 wangx users      1419 Nov 26 15:55 SEEDUbuntu12.04-cl1.vmdk
+-rw------- 1 wangx users    375442 Nov 21 14:43 vmware-0.log
+-rw------- 1 wangx users    590225 Nov 15 23:38 vmware-1.log
+-rw------- 1 wangx users    377884 Nov 26 17:26 vmware.log
+
+/home/wangx/.vmware:
+total 44
+drwx--x--x  2 wangx users  4096 Nov 26 15:55 .
+drwx--x--x 23 wangx users  4096 Nov 27 17:27 ..
+-rwxr-xr--  1 wangx users   118 Aug 28 16:29 inventory.vmls
+-rw-------  1 wangx users  1052 Nov 26 15:56 player.log
+-rw-------  1 wangx users  2840 Nov 26 15:55 playerUploadedData.log
+-rw-------  1 wangx users  1644 Nov 26 15:55 preferences
+-rw-r--r--  1 wangx users 11628 Aug 28 16:29 shortcuts
+-rw-------  1 wangx users  4757 Aug 28 16:29 workstation.log
+
+/home/wangx/work:
+total 12
+drwx--x--x  3 wangx users 4096 Sep 10 15:57 .
+drwx--x--x 23 wangx users 4096 Nov 27 17:27 ..
+drwx--x--x  4 wangx users 4096 Nov  5 17:37 teaching
+
+/home/wangx/work/teaching:
+total 20
+drwx--x--x  4 wangx users 4096 Nov  5 17:37 .
+drwx--x--x  3 wangx users 4096 Sep 10 15:57 ..
+drwx--x--x 14 wangx users 4096 Nov 22 04:52 cis241
+drwx--x--x  3 wangx users 4096 Sep  8 10:48 cis458
+-rw-------  1 wangx users  652 Sep 10 15:53 submit.c
+
+/home/wangx/work/teaching/cis241:
+total 56
+drwx--x--x 14 wangx users 4096 Nov 22 04:52 .
+drwx--x--x  4 wangx users 4096 Nov  5 17:37 ..
+drwx--x--x  2 wangx users 4096 Nov 27 17:28 awk
+drwx--x--x  3 wangx users 4096 Nov  5 17:01 code
+drwx--x--x  2 wangx users 4096 Sep 18 16:09 hw1
+drwx--x--x  2 wangx users 4096 Oct  6 17:27 hw2
+drwx--x--x  2 wangx users 4096 Oct 27 16:41 hw3
+drwx--x--x  3 wangx users 4096 Nov 16 17:10 linux
+drwx--x--x  3 wangx users 4096 Nov  2 16:52 p1
+drwx--x--x  2 wangx users 4096 Nov  3 17:35 p2
+drwx--x--x  3 wangx users 4096 Nov 25 15:44 p3
+drwx--x--x  5 wangx users 4096 Sep 24 14:33 programs
+drwx--x--x  3 wangx users 4096 Nov 25 16:03 student
+drwx--x--x  2 wangx users 4096 Nov 18 16:49 test
+
+/home/wangx/work/teaching/cis241/awk:
+total 152
+drwx--x--x  2 wangx users  4096 Nov 27 17:28 .
+drwx--x--x 14 wangx users  4096 Nov 22 04:52 ..
+-rw-------  1 wangx users   303 Nov 27 11:01 cars
+-rw-------  1 wangx users    78 Nov 27 14:58 chevfile
+-rwx--x--x  1 wangx users    96 Nov 22 05:21 fileOwner.awk
+-rwx--x--x  1 wangx users   102 Nov 22 05:18 fileOwner.sh
+-rw-------  1 wangx users 40960 Nov 27  2017 files
+-rw-------  1 wangx users 12288 Nov 27 17:26 .filesummary.sh.swp
+-rw-------  1 wangx users   107 Nov 27 15:46 find_uid
+-rw-------  1 wangx users   105 Nov 27 14:58 fordfile
+-rw-------  1 wangx users   243 Nov 27 15:56 min_max_inode
+-rw-------  1 wangx users   113 Nov 27 11:14 pr_header
+-rw-------  1 wangx users   381 Nov 27 14:42 printf_demo
+-rw-------  1 wangx users    78 Nov 27 14:58 redirect_out
+-rw-------  1 wangx users 38617 Mar 17  1986 rfc979.txt
+-rw-------  1 wangx users    23 Nov 27 17:10 rfcupper
+-rwx------  1 wangx users    91 Nov 27 11:35 separ_demo
+-rw-------  1 wangx users   432 Nov 27 15:09 summary
+-rw-------  1 wangx users     0 Nov 22 04:56 test
+
+/home/wangx/work/teaching/cis241/code:
+total 12
+drwx--x--x  3 wangx users 4096 Nov  5 17:01 .
+drwx--x--x 14 wangx users 4096 Nov 22 04:52 ..
+drwx--x--x  2 wangx users 4096 Nov  5 17:01 used
+
+/home/wangx/work/teaching/cis241/code/used:
+total 268
+drwx--x--x 2 wangx users 4096 Nov  5 17:01 .
+drwx--x--x 3 wangx users 4096 Nov  5 17:01 ..
+-rwx--x--x 1 wangx users 8656 Oct 24 16:18 a.out
+-rw------- 1 wangx users  559 Sep 19 17:16 arrayAsFunArg.c
+-rw------- 1 wangx users  246 Sep 19 16:55 array.c
+-rw------- 1 wangx users  109 Oct 23 14:09 bit_operators.c
+-rw------- 1 wangx users  655 Oct 24 16:18 bit_print.c
+-rw------- 1 wangx users  401 Sep 14 16:58 callbyreference.c
+-rw------- 1 wangx users  321 Sep 12 16:37 callbyvalue.c
+-rw------- 1 wangx users  445 Oct 11 14:21 call_main.c
+-rw------- 1 wangx users 1081 Oct  2 15:46 check_bits.c
+-rw------- 1 wangx users   72 Oct 17 16:35 cls.c
+-rw------- 1 wangx users  153 Sep 26 10:56 const_volatile.c
+-rwx--x--x 1 wangx users 8832 Sep  7 16:36 copy
+-rw------- 1 wangx users  637 Sep  7 16:36 copy.c
+-rw------- 1 wangx users  386 Sep 21 17:11 cp.c
+-rw------- 1 wangx users   35 Sep  7 15:08 dat
+-rw------- 1 wangx users 2852 Oct 25 14:21 emplee.c
+-rw------- 1 wangx users  543 Oct 23 12:17 enum.c
+-rw------- 1 wangx users  148 Oct 17 14:35 env.c
+-rwx--x--x 1 wangx users 8600 Aug 31 17:11 f2c
+-rw------- 1 wangx users  456 Aug 31 15:38 f2c1.c
+-rw------- 1 wangx users  452 Aug 31 17:26 f2c.c
+-rw------- 1 wangx users  453 Sep  7 16:39 fc.c
+-rwxrwx--x 1 wangx users  452 Oct 17 15:49 fib.c
+-rw------- 1 wangx users  542 Sep 18 15:53 fio.c
+-rw------- 1 wangx users  149 Oct 17 15:40 fork.c
+-rw------- 1 wangx users  156 Sep 11 10:40 function.c
+-rw------- 1 wangx users   99 Oct 17 17:10 hello.c
+-rw------- 1 wangx users  499 Sep 19 16:35 increment.c
+-rwx--x--x 1 wangx users 8568 Sep  7 17:08 iplus
+-rw------- 1 wangx users  263 Sep  7 16:06 iplus.c
+-rw------- 1 wangx users   38 Sep  7 14:26 makefile
+-rw------- 1 wangx users  286 Oct 22 18:00 mask.c
+-rw------- 1 wangx users  655 Sep  7 15:41 numbers
+-rw------- 1 wangx users  248 Sep 28 17:30 numbers.c
+-rw------- 1 wangx users   36 Sep  7 15:08 out
+-rw------- 1 wangx users 1081 Oct 22 18:50 pack_unpack.c
+-rw------- 1 wangx users  742 Sep 12 15:44 pointer1.c
+-rw------- 1 wangx users  235 Sep 19 15:24 pointer_ari_size.c
+-rw------- 1 wangx users  214 Sep 26 11:26 pointer.c
+-rw------- 1 wangx users 3267 Sep  7 16:50 r
+-rw------- 1 wangx users  502 Sep 25 17:34 ragged_arrays.c
+-rw------- 1 wangx users  887 Sep  7 15:40 rand.c
+-rw------- 1 wangx users  224 Sep  7 15:38 random_numbers
+-rw------- 1 wangx users  120 Oct 22 17:19 shift.c
+-rw------- 1 wangx users  295 Oct  5 15:41 sprint.c
+-rw------- 1 wangx users  468 Sep 14 16:15 static.c
+-rw------- 1 wangx users  199 Sep 21 17:12 string.c
+-rw------- 1 wangx users  478 Sep 14 15:16 swap.c
+-rw------- 1 wangx users  386 Sep 14 15:32 swap_value.c
+-rw------- 1 wangx users  418 Oct  8 18:22 test.c
+-rw------- 1 wangx users   23 Sep  7 16:26 test.dat
+-rw------- 1 wangx users  163 Oct  4 23:01 testio.c
+-rw------- 1 wangx users   22 Sep 18 15:54 test.out
+-rw------- 1 wangx users   95 Oct 22 16:32 twos_1.c
+-rw------- 1 wangx users 1084 Sep 10 17:23 type_size.c
+-rw------- 1 wangx users  245 Oct 17 16:51 upper_case.c
+-rw------- 1 wangx users  282 Oct 23 11:53 week.c
+
+/home/wangx/work/teaching/cis241/hw1:
+total 52
+drwx--x--x  2 wangx users 4096 Sep 18 16:09 .
+drwx--x--x 14 wangx users 4096 Nov 22 04:52 ..
+-rwx--x--x  1 wangx users 8648 Sep 18 16:09 a.out
+-rw-------  1 wangx users  303 Sep  6 16:17 q7_1.c
+-rw-------  1 wangx users  405 Sep  6 16:28 q7_2.c
+-rw-------  1 wangx users  160 Sep 18 10:53 s1.c
+-rw-------  1 wangx users  388 Sep 18 11:04 s2.c
+-rw-------  1 wangx users  335 Sep 18 11:27 s3.c
+-rw-------  1 wangx users  402 Sep 18 14:46 s4.c
+-rw-------  1 wangx users  259 Sep 18 15:11 s5.c
+-rw-------  1 wangx users  203 Sep 18 16:09 s6.c
+
+/home/wangx/work/teaching/cis241/hw2:
+total 36
+drwx--x--x  2 wangx users 4096 Oct  6 17:27 .
+drwx--x--x 14 wangx users 4096 Nov 22 04:52 ..
+-rwx--x--x  1 wangx users 8616 Oct  6 17:27 a.out
+-rw-------  1 wangx users  252 Sep 28 09:39 q2.c
+-rw-------  1 wangx users  190 Sep 20 13:29 q3.c
+-rw-------  1 wangx users  402 Oct  6 16:39 q4.c
+-rw-------  1 wangx users  346 Oct  6 17:27 ss.c
+
+/home/wangx/work/teaching/cis241/hw3:
+total 36
+drwx--x--x  2 wangx users 4096 Oct 27 16:41 .
+drwx--x--x 14 wangx users 4096 Nov 22 04:52 ..
+-rwx--x--x  1 wangx users 8736 Oct 27 16:37 a.out
+-rwx--x--x  1 wangx users 8736 Oct 27 16:41 employee
+-rw-------  1 wangx users 1803 Oct 27 16:37 employee.c
+
+/home/wangx/work/teaching/cis241/linux:
+total 100
+drwx--x--x  3 wangx users 4096 Nov 16 17:10 .
+drwx--x--x 14 wangx users 4096 Nov 22 04:52 ..
+-rwx--x--x  1 wangx users  227 Nov 16 16:06 brk
+-rw-------  1 wangx users  178 Nov 13 15:01 case1
+-rw-------  1 wangx users  155 Nov 13 15:09 case2
+-rw-------  1 wangx users  357 Nov 13 15:16 case3
+-rw-------  1 wangx users  146 Nov 13 15:33 case4
+-rwx--x--x  1 wangx users   89 Nov 12 18:08 count
+-rwx------  1 wangx users  115 Nov 16 15:05 dateset
+-rwx------  1 wangx users   44 Nov  6 22:48 echo_ee
+-rw-------  1 wangx users   78 Nov 10 11:35 export
+-rwx--x--x  1 wangx users  555 Nov 13 16:49 filechecker
+-rwx--x--x  1 wangx users  313 Nov 12 17:36 forin
+-rw-------  1 wangx users   37 Nov  9 16:42 input
+drwx--x--x  2 wangx users 4096 Nov 12 17:09 links
+-rw-------  1 wangx users   89 Nov 12 18:12 list
+-rwx--x--x  1 wangx users 1096 Nov 12 17:16 lnks
+-rwx--x--x  1 wangx users  510 Nov 14 14:58 myfc
+-rw-------  3 wangx users   26 Nov  6 12:53 p
+-rw-------  3 wangx users   26 Nov  6 12:53 people
+-rwx------  1 wangx users   53 Nov  8 15:38 perl_script.pl
+-rw-------  1 wangx users    8 Nov 16 17:10 px
+-rwx--x--x  1 wangx users  405 Nov 13 15:54 select_fruit
+-rwx--x--x  1 wangx users  390 Nov 16 16:47 sf
+-rw-------  1 wangx users  118 Nov  9 16:02 simple
+
+/home/wangx/work/teaching/cis241/linux/links:
+total 16
+drwx--x--x 2 wangx users 4096 Nov 12 17:09 .
+drwx--x--x 3 wangx users 4096 Nov 16 17:10 ..
+-rw------- 1 wangx users   40 Nov  6 14:17 homework
+-rw------- 3 wangx users   26 Nov  6 12:53 pp
+
+/home/wangx/work/teaching/cis241/p1:
+total 80
+drwx--x--x  3 wangx users  4096 Nov  2 16:52 .
+drwx--x--x 14 wangx users  4096 Nov 22 04:52 ..
+-rw-------  1 wangx users    70 Oct  8 16:16 cip
+-rw-------  1 wangx users     6 Oct 10 10:17 cipher
+-rw-------  1 wangx users    70 Sep 21 16:18 cipher1
+-rw-------  1 wangx users     6 Oct 10 10:17 data
+-rw-------  1 wangx users     6 Oct 10 10:17 ddata
+-rw-------  1 wangx users    70 Sep 21 16:18 discoveredPlain1
+-rw-------  1 wangx users  2729 Oct  8 16:15 functions.c
+-rw-------  1 wangx users  1253 Sep 21 16:21 functions.h
+-rw-------  1 wangx users  3384 Oct 10 10:15 functions.o
+-rw-------  1 wangx users   357 Oct 10 10:15 makefile
+-rwx--x--x  1 wangx users 13368 Oct 10 10:15 p
+-rw-------  1 wangx users  1745 Sep 20 16:21 p1.c
+-rw-------  1 wangx users  3208 Oct 10 10:15 p1.o
+-rw-------  1 wangx users    70 Sep 21 16:17 plain1
+drwx--x--x  3 wangx users  4096 Oct  9 12:39 student_submission
+-rw-------  1 wangx users     0 Nov  2 16:52 textc
+
+/home/wangx/work/teaching/cis241/p1/student_submission:
+total 2768
+drwx--x--x 3 wangx users    4096 Oct  9 12:39 .
+drwx--x--x 3 wangx users    4096 Nov  2 16:52 ..
+drwx--x--x 2 wangx users    4096 Oct 11 15:17 241p1
+-rw-r--r-- 1 wangx users  310774 Oct  8 17:42 241p1t2.tar.gz
+-rw-r--r-- 1 wangx users  310767 Oct  7 12:14 batescol241p1.tar.gz
+-rw------- 1 wangx users       8 Oct  7 12:10 data
+-rw-r--r-- 1 wangx users    2754 Oct  9 12:37 functions.c
+-rw-r--r-- 1 wangx users     840 Oct  9 12:38 functions.h
+-rw-r--r-- 1 wangx users    1200 Oct  9 12:37 main.c
+-rw------- 1 wangx users 2180592 Oct  9 12:39 p
+
+/home/wangx/work/teaching/cis241/p1/student_submission/241p1:
+total 1236
+drwx--x--x 2 wangx users    4096 Oct 11 15:17 .
+drwx--x--x 3 wangx users    4096 Oct  9 12:39 ..
+-rw------- 1 wangx users       8 Oct 11 15:14 cipher
+-rw------- 1 wangx users       8 Oct 11 15:09 cipher1
+-rw------- 1 wangx users       8 Oct  7 12:24 data
+-rw------- 1 wangx users       8 Oct  7 12:24 ddata
+-rw------- 1 wangx users       8 Oct 11 15:07 dp
+-rw------- 1 wangx users    3688 Oct  8 14:42 functions.c
+-rw------- 1 wangx users     282 Oct  8 14:42 functions.h
+-rw------- 1 wangx users    4160 Oct 11 15:09 functions.o
+-rw------- 1 wangx users     359 Oct 11 15:13 makefile
+-rwx--x--x 1 wangx users   13408 Oct 11 15:14 p
+-rw------- 1 wangx users     364 Oct 11 15:14 p1.c
+-rw------- 1 wangx users    1656 Oct 11 15:14 p1.o
+-rw------- 1 wangx users       8 Oct  8 17:45 plain1
+-rw------- 1 wangx users 1185564 Oct  2 17:29 plain1.org
+
+/home/wangx/work/teaching/cis241/p2:
+total 88
+drwx--x--x  2 wangx users  4096 Nov  3 17:35 .
+drwx--x--x 14 wangx users  4096 Nov 22 04:52 ..
+-rw-------  1 wangx users    81 Nov  3 17:45 data
+-rw-r--r--  1 wangx users  5956 Oct  8 17:11 list.cpp
+-rw-------  1 wangx users   282 Oct 16 22:25 main.c
+-rw-------  1 wangx users  1712 Oct 19 17:04 main.o
+-rw-------  1 wangx users   233 Oct 18 17:25 makefile
+-rw-------  1 wangx users 10905 Nov  3 17:33 operations.c
+-rw-------  1 wangx users  2060 Oct 18 21:35 operations.h
+-rw-------  1 wangx users 11888 Nov  3 17:33 operations.o
+-rwx--x--x  1 wangx users 17880 Nov  3 17:33 p2
+-rw-r--r--  1 wangx users  7832 Oct 16 11:33 project2_xiang.c
+
+/home/wangx/work/teaching/cis241/p3:
+total 28
+drwx--x--x  3 wangx users 4096 Nov 25 15:44 .
+drwx--x--x 14 wangx users 4096 Nov 22 04:52 ..
+-rw-------  1 wangx users    0 Nov 10 20:59 a
+-rw-------  1 wangx users    0 Nov 10 20:59 b
+-rwx--x--x  1 wangx users 1968 Nov 11 14:34 backup
+-rw-------  1 wangx users    0 Nov 10 20:59 d
+-rwx--x--x  1 wangx users   54 Nov 10 12:25 junk
+drwx--x--x  2 wangx users 4096 Nov 10 21:24 sub
+-rw-------  1 wangx users   19 Nov 10 22:09 x
+-rw-------  1 wangx users   25 Nov 10 22:10 y
+
+/home/wangx/work/teaching/cis241/p3/sub:
+total 16
+drwx--x--x 2 wangx users 4096 Nov 10 21:24 .
+drwx--x--x 3 wangx users 4096 Nov 25 15:44 ..
+-rwx--x--x 1 wangx users  645 Nov 10 21:24 backup
+-rwx--x--x 1 wangx users   54 Nov 10 21:24 junk
+
+/home/wangx/work/teaching/cis241/programs:
+total 20
+drwx--x--x  5 wangx users 4096 Sep 24 14:33 .
+drwx--x--x 14 wangx users 4096 Nov 22 04:52 ..
+drwx--x--x  2 wangx users 4096 Sep 24 15:15 find_root
+drwx--x--x  2 wangx users 4096 Sep 24 12:47 sort_words
+drwx--x--x  2 wangx users 4096 Sep 24 14:18 sum_sqr
+
+/home/wangx/work/teaching/cis241/programs/find_root:
+total 52
+drwx--x--x 2 wangx users 4096 Sep 24 15:15 .
+drwx--x--x 5 wangx users 4096 Sep 24 14:33 ..
+-rw------- 1 wangx users  585 Sep 24 15:14 bisection.c
+-rw------- 1 wangx users 1920 Sep 24 15:15 bisection.o
+-rw------- 1 wangx users   95 Sep 24 15:00 fct.c
+-rw------- 1 wangx users 1536 Sep 24 15:15 fct.o
+-rw------- 1 wangx users  552 Sep 24 15:15 find_root.h
+-rw------- 1 wangx users  638 Sep 24 15:10 main.c
+-rw------- 1 wangx users 2632 Sep 24 15:15 main.o
+-rw------- 1 wangx users  234 Sep 24 15:03 makefile
+-rwx--x--x 1 wangx users 8856 Sep 24 15:15 root
+
+/home/wangx/work/teaching/cis241/programs/sort_words:
+total 48
+drwx--x--x 2 wangx users 4096 Sep 24 12:47 .
+drwx--x--x 5 wangx users 4096 Sep 24 14:33 ..
+-rw------- 1 wangx users   80 Sep 24 12:39 data
+-rw------- 1 wangx users  176 Sep 24 12:38 makefile
+-rwx--x--x 1 wangx users 9168 Sep 24 12:47 sort
+-rw------- 1 wangx users  921 Sep 24 12:28 sort.c
+-rw------- 1 wangx users  361 Sep 24 12:29 sort.h
+-rw------- 1 wangx users 2936 Sep 24 12:47 sort.o
+-rw------- 1 wangx users  736 Sep 24 12:47 sort_words.c
+-rw------- 1 wangx users 2272 Sep 24 12:47 sort_words.o
+
+/home/wangx/work/teaching/cis241/programs/sum_sqr:
+total 40
+drwx--x--x 2 wangx users 4096 Sep 24 14:18 .
+drwx--x--x 5 wangx users 4096 Sep 24 14:33 ..
+-rw------- 1 wangx users  108 Sep 24 14:16 fct.c
+-rw------- 1 wangx users  209 Sep 24 14:17 main.c
+-rw------- 1 wangx users  218 Sep 24 13:46 makefile
+-rwx--x--x 1 wangx users 8672 Sep 24 14:17 sum
+-rw------- 1 wangx users  184 Sep 24 13:47 sum_sqr.c
+-rw------- 1 wangx users  199 Sep 24 14:17 sum_sqr.h
+
+/home/wangx/work/teaching/cis241/student:
+total 24
+drwx--x--x  3 wangx users 4096 Nov 25 16:03 .
+drwx--x--x 14 wangx users 4096 Nov 22 04:52 ..
+-rwx------  1 wangx users 2294 Nov 25 16:01 backup.sh
+-rw-------  1 wangx users   16 Nov 25 14:56 fa.txt
+-rw-------  1 wangx users   15 Nov 25 14:56 fb
+-rw-------  1 wangx users    0 Nov 25 14:56 fc
+drwx--x--x  2 wangx users 4096 Nov 25 14:55 test
+
+/home/wangx/work/teaching/cis241/student/test:
+total 12
+drwx--x--x 2 wangx users 4096 Nov 25 14:55 .
+drwx--x--x 3 wangx users 4096 Nov 25 16:03 ..
+-rw------- 1 wangx users   16 Nov 25 14:55 f1.txt
+
+/home/wangx/work/teaching/cis241/test:
+total 44
+drwx--x--x  2 wangx users 4096 Nov 18 16:49 .
+drwx--x--x 14 wangx users 4096 Nov 22 04:52 ..
+-rw-------  1 wangx users  135 Oct  9 13:25 arg.c
+-rw-------  1 wangx users  203 Oct 13 10:57 arr2.c
+-rw-------  1 wangx users  265 Oct  9 16:19 doit.c
+-rw-------  1 wangx users   85 Oct 14 10:16 evalOrder.c
+-rw-------  1 wangx users  151 Oct  9 11:29 foo.c
+-rw-------  1 wangx users  364 Oct 14 09:44 printPrefix.c
+-rw-------  1 wangx users  143 Oct  9 13:16 static.c
+-rw-------  1 wangx users  106 Oct  9 13:44 test
+-rw-------  1 wangx users  246 Oct 14 10:02 test.c
+
+/home/wangx/work/teaching/cis458:
+total 12
+drwx--x--x 3 wangx users 4096 Sep  8 10:48 .
+drwx--x--x 4 wangx users 4096 Nov  5 17:37 ..
+drwx--x--x 6 wangx users 4096 Nov 26 13:38 labs
+
+/home/wangx/work/teaching/cis458/labs:
+total 276
+drwx--x--x 6 wangx users   4096 Nov 26 13:38 .
+drwx--x--x 3 wangx users   4096 Sep  8 10:48 ..
+-rw------- 1 wangx users     32 Oct 21 16:16 cipher
+-rw------- 1 wangx users     21 Oct 21 16:01 data
+-rw------- 1 wangx users   1754 Oct 21 16:26 FileDecAES.class
+-rw-r--r-- 1 wangx users   1594 Oct 21 16:25 FileDecAES.java
+-rw------- 1 wangx users   1756 Oct 21 16:26 FileEncAES.class
+-rw-r--r-- 1 wangx users   1596 Oct 21 16:25 FileEncAES.java
+drwx--x--x 2 wangx users   4096 Sep  8 14:53 lab02
+drwx--x--x 2 wangx users   4096 Sep 27 14:38 lab04
+drwx--x--x 2 wangx users   4096 Nov  6 10:59 lab05
+drwx--x--x 5 wangx users   4096 Oct 18 14:59 lab06
+-rw-r--r-- 1 wangx users 231286 Oct 21 16:14 proof.png
+-rw-r----- 1 wangx users      0 Nov 26 13:38 test
+
+/home/wangx/work/teaching/cis458/labs/lab02:
+total 4308
+drwx--x--x 2 wangx users    4096 Sep  8 14:53 .
+drwx--x--x 6 wangx users    4096 Nov 26 13:38 ..
+-rw------- 1 wangx users     768 Sep  8 11:05 aes-128-cbc.c
+-rw------- 1 wangx users     768 Sep  8 11:06 aes-128-cbc.p
+-rw------- 1 wangx users     768 Sep  8 11:17 blowfish.c
+-rw------- 1 wangx users     768 Sep  8 11:19 blowfish.p
+-rw------- 1 wangx users     768 Sep  8 10:57 data
+-rw------- 1 wangx users     768 Sep  8 11:41 des-ede3-cbc.c
+-rw------- 1 wangx users     768 Sep  8 11:42 des-ede3-cbc.p
+-rw------- 1 wangx users 1454096 Sep  8 14:56 pic-aes-128-cbc.bmp
+-rw------- 1 wangx users 1454096 Sep  8 14:56 pic-aes-128-ecb.bmp
+-rw------- 1 wangx users 1454090 Sep  8 14:33 pic_lab02.bmp
+
+/home/wangx/work/teaching/cis458/labs/lab04:
+total 1132
+drwx--x--x 2 wangx users    4096 Sep 27 14:38 .
+drwx--x--x 6 wangx users    4096 Nov 26 13:38 ..
+-rwx--x--x 1 wangx users    8720 Sep 25 10:16 a.out
+-rw------- 1 wangx users     128 Sep 25 12:07 c1024
+-rw------- 1 wangx users     256 Sep 25 15:13 c2048
+-rw------- 1 wangx users     117 Sep 25 12:09 d1024
+-rw------- 1 wangx users     245 Sep 25 15:13 d2048
+-rw------- 1 wangx users     245 Sep 25 13:50 dat
+-rw------- 1 wangx users     117 Sep 25 12:08 dat1024
+-rw------- 1 wangx users     245 Sep 25 12:05 dat2048
+-rw------- 1 wangx users 1048576 Sep 25 10:16 data
+-rw------- 1 wangx users    6489 Sep 25 15:13 EncTimes
+-rw------- 1 wangx users     747 Sep 25 10:16 gen_data.c
+-rw------- 1 wangx users     891 Sep 27 14:34 pr1024.pem
+-rw------- 1 wangx users    1679 Sep 27 14:35 pr2048.pem
+-rw------- 1 wangx users    3243 Sep 27 14:36 pr4096.pem
+-rw------- 1 wangx users     887 Sep 27 14:33 private1024.pem
+-rw------- 1 wangx users    1679 Sep 25 15:13 private2048.pem
+-rw------- 1 wangx users     891 Sep 27 14:37 pu1024.pem
+-rw------- 1 wangx users    1679 Sep 27 14:38 pu2048.pem
+-rw------- 1 wangx users    3243 Sep 27 14:38 pu4096.pem
+-rw------- 1 wangx users     887 Sep 25 15:13 public1024.pem
+-rw------- 1 wangx users    1679 Sep 25 15:13 public2048.pem
+-rwx-----x 1 wangx users    1770 Sep 25 15:13 timing.sh
+-rw------- 1 wangx users     256 Sep 25 15:13 tmp
+
+/home/wangx/work/teaching/cis458/labs/lab05:
+total 92
+drwx--x--x 2 wangx users 4096 Nov  6 10:59 .
+drwx--x--x 6 wangx users 4096 Nov 26 13:38 ..
+-rw------- 1 wangx users  524 Sep 29 17:22 aes_256_cbc.c
+-rw------- 1 wangx users 2236 Sep 29 18:03 aes.c
+-rw------- 1 wangx users  602 Sep 30 14:28 AES.class
+-rw------- 1 wangx users 1985 Nov  6 10:59 AESFileDecryption.class
+-rw------- 1 wangx users 1959 Nov  6 10:59 AESFileDecryption.java
+-rw------- 1 wangx users 2251 Nov  6 10:57 AESFileEncryption.class
+-rw------- 1 wangx users 2501 Nov  6 10:57 AESFileEncryption.java
+-rw------- 1 wangx users  373 Sep 30 14:28 AES.java
+-rw------- 1 wangx users  240 Oct  4 12:53 ciphertext
+-rw------- 1 wangx users  228 Oct  4 12:56 dplaintext
+-rw------- 1 wangx users  240 Oct  1 18:48 encryptedfile.des
+-rw------- 1 wangx users  482 Sep 30 11:02 HelloWorld.class
+-rw------- 1 wangx users  177 Sep 30 11:01 HelloWorld.java
+-rw------- 1 wangx users   16 Oct  4 12:53 iv.enc
+-rw------- 1 wangx users  228 Oct  1 18:50 plainfile_decrypted.txt
+-rw------- 1 wangx users  228 Oct  1 18:27 plaintext
+-rw------- 1 wangx users 2450 Oct  1 15:57 RSAAPI.class
+-rw------- 1 wangx users 2222 Oct  1 15:57 RSAAPI.java
+-rw------- 1 wangx users 2220 Sep 30 13:36 RSA.class
+-rw------- 1 wangx users 2416 Sep 30 13:43 RSA.java
+-rw------- 1 wangx users    8 Oct  4 12:53 salt.enc
+
+/home/wangx/work/teaching/cis458/labs/lab06:
+total 4400
+drwx--x--x 5 wangx users    4096 Oct 18 14:59 .
+drwx--x--x 6 wangx users    4096 Nov 26 13:38 ..
+drwx--x--x 3 wangx users    4096 Oct 18 11:11 john
+drwx--x--x 5 wangx users    4096 Oct 18 11:56 john-1.8.0
+-rw-r--r-- 1 wangx users 4468704 Oct 18 11:30 john-1.8.0.tar.xz
+drwx--x--x 2 wangx users    4096 Oct 18 17:02 lab6
+-rw------- 1 wangx users     205 Oct 18 12:13 part1a.txt
+-rw------- 1 wangx users     205 Oct 18 12:13 part1.txt
+-rw------- 1 wangx users    1671 Oct 18 12:13 part2.txt
+-rw------- 1 wangx users      44 Oct 18 12:13 rules.conf
+
+/home/wangx/work/teaching/cis458/labs/lab06/john:
+total 28
+drwx--x--x 3 wangx users 4096 Oct 18 11:11 .
+drwx--x--x 5 wangx users 4096 Oct 18 14:59 ..
+-rw-r--r-- 1 wangx users  205 Oct 18 11:11 part1a.txt
+-rw-r--r-- 1 wangx users  205 Oct 18 11:11 part1.txt
+-rw-r--r-- 1 wangx users 1671 Oct 18 11:11 part2.txt
+-rw-r--r-- 1 wangx users   44 Oct 18 11:11 rules.conf
+drwx--x--x 2 wangx users 4096 Oct 18 11:53 run
+
+/home/wangx/work/teaching/cis458/labs/lab06/john/run:
+total 56844
+drwx--x--x 2 wangx users     4096 Oct 18 11:53 .
+drwx--x--x 3 wangx users     4096 Oct 18 11:11 ..
+-rwx--x--x 1 wangx users     8573 Oct 18 11:53 1password2john.py
+-rwx--x--x 1 wangx users    32800 Oct 18 11:53 7z2john.py
+-rwx--x--x 1 wangx users      867 Oct 18 11:53 aix2john.pl
+-rwx--x--x 1 wangx users     1879 Oct 18 11:53 aix2john.py
+-rwx--x--x 1 wangx users  4086722 Oct 18 11:53 alnum.chr
+-rwx--x--x 1 wangx users  4174257 Oct 18 11:53 alnumspace.chr
+-rwx--x--x 1 wangx users  1950539 Oct 18 11:53 alpha.chr
+-rwx--x--x 1 wangx users     7287 Oct 18 11:53 androidfde2john.py
+-rwx--x--x 1 wangx users      732 Oct 18 11:53 apex2john.py
+-rwx--x--x 1 wangx users  5720262 Oct 18 11:53 ascii.chr
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 base64conv -> john
+-rwx--x--x 1 wangx users     8832 Oct 18 11:53 benchmark-unify
+-rwx--x--x 1 wangx users    32313 Oct 18 11:53 bitcoin2john.py
+-rwx--x--x 1 wangx users     1048 Oct 18 11:53 blockchain2john.py
+-rwx--x--x 1 wangx users    22926 Oct 18 11:53 calc_stat
+-rwx--x--x 1 wangx users     6342 Oct 18 11:53 cisco2john.pl
+-rwx--x--x 1 wangx users    75490 Oct 18 11:53 cprepair
+-rwx--x--x 1 wangx users      614 Oct 18 11:53 cracf2john.py
+-rwx--x--x 1 wangx users     4099 Oct 18 11:53 dictionary.rfc2865
+-rwx--x--x 1 wangx users   465097 Oct 18 11:53 digits.chr
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 dmg2john -> john
+-rwx--x--x 1 wangx users     4957 Oct 18 11:53 dmg2john.py
+-rwx--x--x 1 wangx users    42420 Oct 18 11:53 dumb16.conf
+-rwx--x--x 1 wangx users    57329 Oct 18 11:53 dumb32.conf
+-rwx--x--x 1 wangx users    38695 Oct 18 11:53 dynamic.conf
+-rwx--x--x 1 wangx users     9544 Oct 18 11:53 dynamic_flat_sse_formats.conf
+-rwx--x--x 1 wangx users     1662 Oct 18 11:53 ecryptfs2john.py
+-rwx--x--x 1 wangx users    40849 Oct 18 11:53 efs2john.py
+-rwx--x--x 1 wangx users     2373 Oct 18 11:53 encfs2john.py
+-rwx--x--x 1 wangx users     1868 Oct 18 11:53 genincstats.rb
+-rwx--x--x 1 wangx users   103857 Oct 18 11:53 genmkvpwd
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 gpg2john -> john
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 hccap2john -> john
+-rwx--x--x 1 wangx users      410 Oct 18 11:53 hextoraw.pl
+-rwx--x--x 1 wangx users      793 Oct 18 11:53 htdigest2john.py
+-rwx--x--x 1 wangx users      711 Oct 18 11:53 ikescan2john.py
+-rwx--x--x 1 wangx users     1615 Oct 18 11:53 ios7tojohn.pl
+-rwx--x--x 1 wangx users 13849300 Oct 18 11:53 john
+-rwx--x--x 1 wangx users    29949 Oct 18 11:53 john.bash_completion
+-rwx--x--x 1 wangx users    81874 Oct 18 11:53 john.conf
+-rwx--x--x 1 wangx users     3861 Oct 18 11:53 john.local.conf
+-rwx--x--x 1 wangx users     4492 Oct 18 11:53 john.zsh_completion
+-rwx--x--x 1 wangx users     1110 Oct 18 11:53 kdcdump2john.py
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 keepass2john -> john
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 keychain2john -> john
+-rwx--x--x 1 wangx users     2122 Oct 18 11:53 keychain2john.py
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 keyring2john -> john
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 keystore2john -> john
+-rwx--x--x 1 wangx users     3946 Oct 18 11:53 keystore2john.py
+-rwx--x--x 1 wangx users      837 Oct 18 11:53 known_hosts2john.py
+-rwx--x--x 1 wangx users    22505 Oct 18 11:53 korelogic.conf
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 kwallet2john -> john
+-rwx--x--x 1 wangx users     2713 Oct 18 11:53 kwallet2john.py
+-rwx--x--x 1 wangx users  1466791 Oct 18 11:53 lanman.chr
+-rwx--x--x 1 wangx users  7449800 Oct 18 11:53 latin1.chr
+-rwx--x--x 1 wangx users      453 Oct 18 11:53 ldif2john.pl
+-rwx--x--x 1 wangx users     2624 Oct 18 11:53 leet.pl
+-rwx--x--x 1 wangx users      860 Oct 18 11:53 lion2john-alt.pl
+-rwx--x--x 1 wangx users      979 Oct 18 11:53 lion2john.pl
+-rwx--x--x 1 wangx users  1184244 Oct 18 11:53 lm_ascii.chr
+-rwx--x--x 1 wangx users     1525 Oct 18 11:53 lotus2john.py
+-rwx--x--x 1 wangx users  1161863 Oct 18 11:53 lower.chr
+-rwx--x--x 1 wangx users  2464980 Oct 18 11:53 lowernum.chr
+-rwx--x--x 1 wangx users  1209621 Oct 18 11:53 lowerspace.chr
+-rwx--x--x 1 wangx users    38280 Oct 18 11:53 luks2john
+-rwx--x--x 1 wangx users     1432 Oct 18 11:53 mailer
+-rwx--x--x 1 wangx users      842 Oct 18 11:53 makechr
+-rwx--x--x 1 wangx users     2296 Oct 18 11:53 mcafee_epo2john.py
+-rwx--x--x 1 wangx users    22023 Oct 18 11:53 mkvcalcproba
+-rwx--x--x 1 wangx users    28087 Oct 18 11:53 ml2john.py
+-rwx--x--x 1 wangx users     2576 Oct 18 11:53 mozilla2john.py
+-rwx--x--x 1 wangx users     9658 Oct 18 11:53 netntlm.pl
+-rwx--x--x 1 wangx users     5190 Oct 18 11:53 netscreen.py
+-rwx--x--x 1 wangx users     5308 Oct 18 11:53 odf2john.py
+-rwx--x--x 1 wangx users    84647 Oct 18 11:53 office2john.py
+-rwx--x--x 1 wangx users     2028 Oct 18 11:53 openbsd_softraid2john.py
+-rwx--x--x 1 wangx users     2075 Oct 18 11:53 openssl2john.py
+-rwx--x--x 1 wangx users   154083 Oct 18 11:53 pass_gen.pl
+-rwx--x--x 1 wangx users    26325 Oct 18 11:53 password.lst
+-rwx--x--x 1 wangx users    35260 Oct 18 11:53 pcap2john.py
+-rwx--x--x 1 wangx users    13376 Oct 18 11:53 pdf2john.py
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 pfx2john -> john
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 putty2john -> john
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 pwsafe2john -> john
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 racf2john -> john
+-rwx--x--x 1 wangx users     6660 Oct 18 11:53 radius2john.pl
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 rar2john -> john
+-rwx--x--x 1 wangx users    29907 Oct 18 11:53 raw2dyna
+-rwx--x--x 1 wangx users     4520 Oct 18 11:53 regex_alphabets.conf
+-rwx--x--x 1 wangx users     7820 Oct 18 11:53 relbench
+-rwx--x--x 1 wangx users    53958 Oct 18 11:53 repeats16.conf
+-rwx--x--x 1 wangx users    72244 Oct 18 11:53 repeats32.conf
+-rwx--x--x 1 wangx users    16423 Oct 18 11:53 rexgen2rules.pl
+-rwx--x--x 1 wangx users     8963 Oct 18 11:53 sap2john.pl
+-rwx--x--x 1 wangx users      526 Oct 18 11:53 sha-dump.pl
+-rwx--x--x 1 wangx users      491 Oct 18 11:53 sha-test.pl
+-rwx--x--x 1 wangx users      855 Oct 18 11:53 sipdump2john.py
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 ssh2john -> john
+-rwx--x--x 1 wangx users     1067 Oct 18 11:53 ssh2sshng.py
+-rwx--x--x 1 wangx users    27951 Oct 18 11:53 sshng2john.py
+-rwx--x--x 1 wangx users   107571 Oct 18 11:53 stats
+-rwx--x--x 1 wangx users      685 Oct 18 11:53 strip2john.py
+-rwx--x--x 1 wangx users     3445 Oct 18 11:53 sxc2john.py
+-rwx--x--x 1 wangx users    33029 Oct 18 11:53 tgtsnarf
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 truecrypt_volume2john -> john
+-rwx--x--x 1 wangx users    74879 Oct 18 11:53 uaf2john
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 unafs -> john
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 undrop -> john
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 unique -> john
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 unshadow -> john
+-rwx--x--x 1 wangx users   668568 Oct 18 11:53 upper.chr
+-rwx--x--x 1 wangx users  1220961 Oct 18 11:53 uppernum.chr
+-rwx--x--x 1 wangx users  9286825 Oct 18 11:53 utf8.chr
+-rwx--x--x 1 wangx users    55726 Oct 18 11:53 wpapcap2john
+lrwxrwxrwx 1 wangx users        4 Oct 18 11:53 zip2john -> john
+
+/home/wangx/work/teaching/cis458/labs/lab06/john-1.8.0:
+total 36
+drwx--x--x 5 wangx users 4096 Oct 18 11:56 .
+drwx--x--x 5 wangx users 4096 Oct 18 14:59 ..
+drwx--x--x 2 wangx users 4096 Oct 18 11:35 doc
+-rw------- 1 wangx users  205 Oct 18 11:55 part1a.txt
+-rw------- 1 wangx users  205 Oct 18 11:55 part1.txt
+-rw------- 1 wangx users 1671 Oct 18 11:55 part2.txt
+lrwxrwxrwx 1 wangx users   10 May 29  2013 README -> doc/README
+-rw------- 1 wangx users   44 Oct 18 11:56 rules.conf
+drwx--x--x 2 wangx users 4096 Oct 18 11:58 run
+drwx--x--x 2 wangx users 4096 Oct 18 11:47 src
+
+/home/wangx/work/teaching/cis458/labs/lab06/john-1.8.0/doc:
+total 164
+drwx--x--x 2 wangx users  4096 Oct 18 11:35 .
+drwx--x--x 5 wangx users  4096 Oct 18 11:56 ..
+-rw------- 1 wangx users 19364 May 29  2013 CHANGES
+-rw------- 1 wangx users  4871 Feb 27  2011 CONFIG
+-rw------- 1 wangx users  1237 May 29  2013 CONTACT
+-rw------- 1 wangx users 18092 Mar 23  2010 COPYING
+-rw------- 1 wangx users  2829 Jun 22  2011 CREDITS
+-rw------- 1 wangx users 15084 May 29  2013 EXAMPLES
+-rw------- 1 wangx users  3545 Sep 18  2011 EXTERNAL
+-rw------- 1 wangx users 17614 May 29  2013 FAQ
+-rw------- 1 wangx users  2784 May 27  2010 INSTALL
+-rw------- 1 wangx users  2402 May 29  2013 LICENSE
+-rw------- 1 wangx users  5957 May 29  2013 MODES
+-rw------- 1 wangx users 17036 May 29  2013 OPTIONS
+-rw------- 1 wangx users  6201 May 29  2013 README
+-rw------- 1 wangx users 13046 Feb 25  2010 RULES
+
+/home/wangx/work/teaching/cis458/labs/lab06/john-1.8.0/run:
+total 7564
+drwx--x--x 2 wangx users    4096 Oct 18 11:58 .
+drwx--x--x 5 wangx users    4096 Oct 18 11:56 ..
+-rw------- 1 wangx users 5720262 May 29  2013 ascii.chr
+-rw------- 1 wangx users  465097 May 29  2013 digits.chr
+-rwx--x--x 1 wangx users  278072 Oct 18 11:47 john
+-rw------- 1 wangx users   33613 May 29  2013 john.conf
+-rw------- 1 wangx users       0 Oct 18 11:58 john.pot
+-rw------- 1 wangx users 1184244 May 29  2013 lm_ascii.chr
+-rwx------ 1 wangx users    1432 May 29  2013 mailer
+-rwx------ 1 wangx users     842 May 29  2013 makechr
+-rw------- 1 wangx users   26325 May 29  2013 password.lst
+-rwx------ 1 wangx users    4782 May 29  2013 relbench
+lrwxrwxrwx 1 wangx users       4 Oct 18 11:47 unafs -> john
+lrwxrwxrwx 1 wangx users       4 Oct 18 11:47 unique -> john
+lrwxrwxrwx 1 wangx users       4 Oct 18 11:47 unshadow -> john
+
+/home/wangx/work/teaching/cis458/labs/lab06/john-1.8.0/src:
+total 1848
+drwx--x--x 2 wangx users   4096 Oct 18 11:47 .
+drwx--x--x 5 wangx users   4096 Oct 18 11:56 ..
+-rw------- 1 wangx users  10838 May 29  2013 AFS_fmt.c
+-rw------- 1 wangx users  18672 Oct 18 11:47 AFS_fmt.o
+-rw------- 1 wangx users   1051 May 29  2013 alpha.h
+-rw------- 1 wangx users   6859 May 29  2013 alpha.S
+lrwxrwxrwx 1 wangx users      9 Oct 18 11:47 arch.h -> generic.h
+-rw------- 1 wangx users   1202 May 29  2013 batch.c
+-rw------- 1 wangx users    448 May 29  2013 batch.h
+-rw------- 1 wangx users   2248 Oct 18 11:47 batch.o
+-rw------- 1 wangx users   7425 May 29  2013 bench.c
+-rw------- 1 wangx users   1636 May 29  2013 bench.h
+-rw------- 1 wangx users   8136 Oct 18 11:46 bench.o
+-rw------- 1 wangx users   1996 May 29  2013 best.c
+-rwx------ 1 wangx users   2802 May 29  2013 best.sh
+-rw------- 1 wangx users   7496 May 29  2013 BF_fmt.c
+-rw------- 1 wangx users  11904 Oct 18 11:47 BF_fmt.o
+-rw------- 1 wangx users  28040 May 29  2013 BF_std.c
+-rw------- 1 wangx users   1866 May 29  2013 BF_std.h
+-rw------- 1 wangx users  51688 Oct 18 11:47 BF_std.o
+-rw------- 1 wangx users   8773 May 29  2013 BSDI_fmt.c
+-rw------- 1 wangx users  10176 Oct 18 11:47 BSDI_fmt.o
+-rw------- 1 wangx users  11811 May 29  2013 c3_fmt.c
+-rw------- 1 wangx users  18705 May 18  2013 charset.c
+-rw------- 1 wangx users   2098 May  5  2013 charset.h
+-rw------- 1 wangx users  17736 Oct 18 11:47 charset.o
+-rw------- 1 wangx users   1043 May 29  2013 common.c
+-rw------- 1 wangx users   1680 May 29  2013 common.h
+-rw------- 1 wangx users   2872 Oct 18 11:46 common.o
+-rw------- 1 wangx users  31334 May 29  2013 compiler.c
+-rw------- 1 wangx users   1701 May 29  2013 compiler.h
+-rw------- 1 wangx users  39112 Oct 18 11:47 compiler.o
+-rw------- 1 wangx users   4976 May 29  2013 config.c
+-rw------- 1 wangx users   1845 May 29  2013 config.h
+-rw------- 1 wangx users   6352 Oct 18 11:46 config.o
+-rw------- 1 wangx users  10257 May 29  2013 cracker.c
+-rw------- 1 wangx users   1447 Sep 18  2011 cracker.h
+-rw------- 1 wangx users  13072 Oct 18 11:47 cracker.o
+-rw------- 1 wangx users   1774 May 29  2013 crc32.c
+-rw------- 1 wangx users   1270 May 29  2013 crc32.h
+-rw------- 1 wangx users   2656 Oct 18 11:47 crc32.o
+-rw------- 1 wangx users  40223 May 29  2013 DES_bs_b.c
+-rw------- 1 wangx users  48024 Oct 18 11:47 DES_bs_b.o
+-rw------- 1 wangx users  12232 Jul 14  2012 DES_bs.c
+-rw------- 1 wangx users   5861 May  6  2013 DES_bs.h
+-rw------- 1 wangx users  22112 Oct 18 11:46 DES_bs.o
+-rw------- 1 wangx users   7832 May 29  2013 DES_fmt.c
+-rw------- 1 wangx users   7576 Oct 18 11:47 DES_fmt.o
+-rw------- 1 wangx users  28407 May 29  2013 DES_std.c
+-rw------- 1 wangx users   4440 May 29  2013 DES_std.h
+-rw------- 1 wangx users  27920 Oct 18 11:47 DES_std.o
+-rw------- 1 wangx users   2751 May 29  2013 detect.c
+-rw------- 1 wangx users   5980 May 29  2013 dummy.c
+-rw------- 1 wangx users   8864 Oct 18 11:47 dummy.o
+-rw------- 1 wangx users   6149 May 29  2013 external.c
+-rw------- 1 wangx users   1159 May 29  2013 external.h
+-rw------- 1 wangx users  11104 Oct 18 11:47 external.o
+-rw------- 1 wangx users   6938 May 13  2013 formats.c
+-rw------- 1 wangx users  10405 May 13  2013 formats.h
+-rw------- 1 wangx users   6464 Oct 18 11:46 formats.o
+-rw------- 1 wangx users    800 Oct 18 11:47 generic.h
+-rw------- 1 wangx users   3211 May 29  2013 getopt.c
+-rw------- 1 wangx users   2304 May 29  2013 getopt.h
+-rw------- 1 wangx users   4016 Oct 18 11:47 getopt.o
+-rw------- 1 wangx users   1045 May 29  2013 ia64.h
+-rw------- 1 wangx users   3280 May 29  2013 idle.c
+-rw------- 1 wangx users    908 May 29  2013 idle.h
+-rw------- 1 wangx users   3824 Oct 18 11:47 idle.o
+-rw------- 1 wangx users  16929 May 29  2013 inc.c
+-rw------- 1 wangx users    327 Apr 10  2002 inc.h
+-rw------- 1 wangx users  25120 Oct 18 11:47 inc.o
+-rw------- 1 wangx users   2551 May 29  2013 john.asm
+-rw------- 1 wangx users  17481 May 29  2013 john.c
+-rw------- 1 wangx users    387 Apr 10  2002 john.com
+-rw------- 1 wangx users    773 May  6  2013 john.h
+-rw------- 1 wangx users  18080 Oct 18 11:47 john.o
+-rw------- 1 wangx users   1659 May 29  2013 list.c
+-rw------- 1 wangx users   1504 May 29  2013 list.h
+-rw------- 1 wangx users   2456 Oct 18 11:47 list.o
+-rw------- 1 wangx users   4970 May 29  2013 LM_fmt.c
+-rw------- 1 wangx users   8560 Oct 18 11:47 LM_fmt.o
+-rw------- 1 wangx users  25936 Aug 23  2012 loader.c
+-rw------- 1 wangx users   5928 Apr 27  2013 loader.h
+-rw------- 1 wangx users  19456 Oct 18 11:47 loader.o
+-rw------- 1 wangx users   5404 May 29  2013 logger.c
+-rw------- 1 wangx users   1243 May 29  2013 logger.h
+-rw------- 1 wangx users   8344 Oct 18 11:47 logger.o
+-rw------- 1 wangx users  26517 May 29  2013 Makefile
+-rw------- 1 wangx users      0 Oct 18 11:46 Makefile.dep
+-rw------- 1 wangx users   1941 May 29  2013 math.c
+-rw------- 1 wangx users    821 May 29  2013 math.h
+-rw------- 1 wangx users   2520 Oct 18 11:46 math.o
+-rw------- 1 wangx users   5770 May 29  2013 MD5_fmt.c
+-rw------- 1 wangx users   9632 Oct 18 11:47 MD5_fmt.o
+-rw------- 1 wangx users  30416 May 29  2013 MD5_std.c
+-rw------- 1 wangx users   3289 May 29  2013 MD5_std.h
+-rw------- 1 wangx users  45256 Oct 18 11:47 MD5_std.o
+-rw------- 1 wangx users   1679 May 29  2013 memory.c
+-rw------- 1 wangx users   2227 May 29  2013 memory.h
+-rw------- 1 wangx users   2960 Oct 18 11:46 memory.o
+-rw------- 1 wangx users   1056 May 29  2013 mips32.h
+-rw------- 1 wangx users   1056 May 29  2013 mips64.h
+-rw------- 1 wangx users   2419 May 29  2013 misc.c
+-rw------- 1 wangx users   1696 May 29  2013 misc.h
+-rw------- 1 wangx users   4792 Oct 18 11:46 miscnl.o
+-rw------- 1 wangx users   4960 Oct 18 11:47 misc.o
+-rw------- 1 wangx users 102725 Apr 26  2013 nonstd.c
+-rw------- 1 wangx users   9476 May 29  2013 options.c
+-rw------- 1 wangx users   3927 May 29  2013 options.h
+-rw------- 1 wangx users  11600 Oct 18 11:47 options.o
+-rw------- 1 wangx users   1113 May 29  2013 os.h
+-rw------- 1 wangx users    768 May 29  2013 params.c
+-rw------- 1 wangx users   9744 May 29  2013 params.h
+-rw------- 1 wangx users   1088 Oct 18 11:46 params.o
+-rw------- 1 wangx users   1098 May 29  2013 pa-risc.h
+-rw------- 1 wangx users   2972 May 29  2013 path.c
+-rw------- 1 wangx users    921 May 29  2013 path.h
+-rw------- 1 wangx users   3352 Oct 18 11:46 path.o
+-rw------- 1 wangx users   1608 May 29  2013 ppc32alt.h
+-rw------- 1 wangx users   1064 May 29  2013 ppc32.h
+-rw------- 1 wangx users   1609 May 29  2013 ppc64alt.h
+-rw------- 1 wangx users   1064 May 29  2013 ppc64.h
+-rw------- 1 wangx users   7763 May 29  2013 recovery.c
+-rw------- 1 wangx users   3016 May 29  2013 recovery.h
+-rw------- 1 wangx users  13296 Oct 18 11:47 recovery.o
+-rw------- 1 wangx users   4213 Feb 27  2011 rpp.c
+-rw------- 1 wangx users   1764 Feb 23  2010 rpp.h
+-rw------- 1 wangx users   7040 Oct 18 11:47 rpp.o
+-rw------- 1 wangx users  20330 May 13  2013 rules.c
+-rw------- 1 wangx users   1760 May 13  2013 rules.h
+-rw------- 1 wangx users  23312 Oct 18 11:47 rules.o
+-rw------- 1 wangx users     47 Jun 22  2011 sboxes.c
+-rw------- 1 wangx users  47595 Jun 21  2011 sboxes-s.c
+-rw------- 1 wangx users   6738 May 29  2013 signals.c
+-rw------- 1 wangx users   1452 May 29  2013 signals.h
+-rw------- 1 wangx users   6712 Oct 18 11:46 signals.o
+-rw------- 1 wangx users  11581 May  6  2013 single.c
+-rw------- 1 wangx users    294 Apr 10  2002 single.h
+-rw------- 1 wangx users  13304 Oct 18 11:47 single.o
+-rw------- 1 wangx users   1314 May 29  2013 sparc32.h
+-rw------- 1 wangx users   1056 May 29  2013 sparc64.h
+-rw------- 1 wangx users   6409 May 29  2013 status.c
+-rw------- 1 wangx users   2037 May 29  2013 status.h
+-rw------- 1 wangx users   8624 Oct 18 11:47 status.o
+-rw------- 1 wangx users    676 May 29  2013 symlink.c
+-rw------- 1 wangx users    926 May 29  2013 times.h
+-rw------- 1 wangx users  13094 May 29  2013 trip_fmt.c
+-rw------- 1 wangx users  18504 Oct 18 11:47 trip_fmt.o
+-rw------- 1 wangx users   2250 May 29  2013 tty.c
+-rw------- 1 wangx users    837 May 29  2013 tty.h
+-rw------- 1 wangx users   2968 Oct 18 11:46 tty.o
+-rw------- 1 wangx users   1829 May 29  2013 unafs.c
+-rw------- 1 wangx users   3536 Oct 18 11:47 unafs.o
+-rw------- 1 wangx users   5141 May 29  2013 unique.c
+-rw------- 1 wangx users   5392 Oct 18 11:47 unique.o
+-rw------- 1 wangx users   3690 May 29  2013 unshadow.c
+-rw------- 1 wangx users   4896 Oct 18 11:47 unshadow.o
+-rw------- 1 wangx users   1048 May 29  2013 vax.h
+-rw------- 1 wangx users   8282 May 29  2013 wordlist.c
+-rw------- 1 wangx users    563 May 29  2013 wordlist.h
+-rw------- 1 wangx users  19512 Oct 18 11:47 wordlist.o
+-rw------- 1 wangx users   4764 May 29  2013 x86-64.h
+-rw------- 1 wangx users  30446 Jul 21  2012 x86-64.S
+-rw------- 1 wangx users   1080 May  6  2013 x86-any.h
+-rw------- 1 wangx users   1862 May 29  2013 x86-mmx.h
+-rw------- 1 wangx users  29233 Jul 21  2012 x86-mmx.S
+-rw------- 1 wangx users  28169 May 29  2013 x86.S
+-rw------- 1 wangx users   3388 May 29  2013 x86-sse.h
+-rw------- 1 wangx users  31551 Jul 21  2012 x86-sse.S
+
+/home/wangx/work/teaching/cis458/labs/lab06/lab6:
+total 341016
+drwx--x--x 2 wangx users     4096 Oct 18 17:02 .
+drwx--x--x 5 wangx users     4096 Oct 18 14:59 ..
+-rwx--x--x 1 wangx users     8573 Oct 18 12:07 1password2john.py
+-rwx--x--x 1 wangx users    32800 Oct 18 12:07 7z2john.py
+-rwx--x--x 1 wangx users      867 Oct 18 12:07 aix2john.pl
+-rwx--x--x 1 wangx users     1879 Oct 18 12:07 aix2john.py
+-rwx--x--x 1 wangx users  4086722 Oct 18 12:07 alnum.chr
+-rwx--x--x 1 wangx users  4174257 Oct 18 12:07 alnumspace.chr
+-rwx--x--x 1 wangx users  1950539 Oct 18 12:07 alpha.chr
+-rwx--x--x 1 wangx users     7287 Oct 18 12:07 androidfde2john.py
+-rwx--x--x 1 wangx users      732 Oct 18 12:07 apex2john.py
+-rwx--x--x 1 wangx users  5720262 Oct 18 12:07 ascii.chr
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 base64conv
+-rwx--x--x 1 wangx users     8832 Oct 18 12:07 benchmark-unify
+-rwx--x--x 1 wangx users    32313 Oct 18 12:07 bitcoin2john.py
+-rwx--x--x 1 wangx users     1048 Oct 18 12:07 blockchain2john.py
+-rwx--x--x 1 wangx users    22926 Oct 18 12:07 calc_stat
+-rwx--x--x 1 wangx users     6342 Oct 18 12:07 cisco2john.pl
+-rwx--x--x 1 wangx users    75490 Oct 18 12:07 cprepair
+-rwx--x--x 1 wangx users      614 Oct 18 12:07 cracf2john.py
+-rwx--x--x 1 wangx users     4099 Oct 18 12:07 dictionary.rfc2865
+-rwx--x--x 1 wangx users   465097 Oct 18 12:07 digits.chr
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 dmg2john
+-rwx--x--x 1 wangx users     4957 Oct 18 12:07 dmg2john.py
+-rwx--x--x 1 wangx users    42420 Oct 18 12:07 dumb16.conf
+-rwx--x--x 1 wangx users    57329 Oct 18 12:07 dumb32.conf
+-rwx--x--x 1 wangx users    38695 Oct 18 12:07 dynamic.conf
+-rwx--x--x 1 wangx users     9544 Oct 18 12:07 dynamic_flat_sse_formats.conf
+-rwx--x--x 1 wangx users     1662 Oct 18 12:07 ecryptfs2john.py
+-rwx--x--x 1 wangx users    40849 Oct 18 12:07 efs2john.py
+-rwx--x--x 1 wangx users     2373 Oct 18 12:07 encfs2john.py
+-rwx--x--x 1 wangx users     1868 Oct 18 12:07 genincstats.rb
+-rwx--x--x 1 wangx users   103857 Oct 18 12:07 genmkvpwd
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 gpg2john
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 hccap2john
+-rwx--x--x 1 wangx users      410 Oct 18 12:07 hextoraw.pl
+-rwx--x--x 1 wangx users      793 Oct 18 12:07 htdigest2john.py
+-rwx--x--x 1 wangx users      711 Oct 18 12:07 ikescan2john.py
+-rwx--x--x 1 wangx users     1615 Oct 18 12:07 ios7tojohn.pl
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 john
+-rwx--x--x 1 wangx users    29949 Oct 18 12:07 john.bash_completion
+-rwx--x--x 1 wangx users    81874 Oct 18 15:48 john.conf
+-rwx--x--x 1 wangx users    81874 Oct 18 13:24 john.conf.orig
+-rwx--x--x 1 wangx users     3861 Oct 18 12:07 john.local.conf
+-rw------- 1 wangx users      441 Oct 18 17:02 john.pot
+-rwx--x--x 1 wangx users     4492 Oct 18 12:07 john.zsh_completion
+-rwx--x--x 1 wangx users     1110 Oct 18 12:07 kdcdump2john.py
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 keepass2john
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 keychain2john
+-rwx--x--x 1 wangx users     2122 Oct 18 12:07 keychain2john.py
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 keyring2john
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 keystore2john
+-rwx--x--x 1 wangx users     3946 Oct 18 12:07 keystore2john.py
+-rwx--x--x 1 wangx users      837 Oct 18 12:07 known_hosts2john.py
+-rwx--x--x 1 wangx users    22505 Oct 18 12:07 korelogic.conf
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 kwallet2john
+-rwx--x--x 1 wangx users     2713 Oct 18 12:07 kwallet2john.py
+-rwx--x--x 1 wangx users  1466791 Oct 18 12:07 lanman.chr
+-rwx--x--x 1 wangx users  7449800 Oct 18 12:07 latin1.chr
+-rwx--x--x 1 wangx users      453 Oct 18 12:07 ldif2john.pl
+-rwx--x--x 1 wangx users     2624 Oct 18 12:07 leet.pl
+-rwx--x--x 1 wangx users      860 Oct 18 12:07 lion2john-alt.pl
+-rwx--x--x 1 wangx users      979 Oct 18 12:07 lion2john.pl
+-rwx--x--x 1 wangx users  1184244 Oct 18 12:07 lm_ascii.chr
+-rwx--x--x 1 wangx users     1525 Oct 18 12:07 lotus2john.py
+-rwx--x--x 1 wangx users  1161863 Oct 18 12:07 lower.chr
+-rwx--x--x 1 wangx users  2464980 Oct 18 12:07 lowernum.chr
+-rwx--x--x 1 wangx users  1209621 Oct 18 12:07 lowerspace.chr
+-rwx--x--x 1 wangx users    38280 Oct 18 12:07 luks2john
+-rwx--x--x 1 wangx users     1432 Oct 18 12:07 mailer
+-rwx--x--x 1 wangx users      842 Oct 18 12:07 makechr
+-rwx--x--x 1 wangx users     2296 Oct 18 12:07 mcafee_epo2john.py
+-rwx--x--x 1 wangx users    22023 Oct 18 12:07 mkvcalcproba
+-rwx--x--x 1 wangx users    28087 Oct 18 12:07 ml2john.py
+-rwx--x--x 1 wangx users     2576 Oct 18 12:07 mozilla2john.py
+-rwx--x--x 1 wangx users     9658 Oct 18 12:07 netntlm.pl
+-rwx--x--x 1 wangx users     5190 Oct 18 12:07 netscreen.py
+-rwx--x--x 1 wangx users     5308 Oct 18 12:07 odf2john.py
+-rwx--x--x 1 wangx users    84647 Oct 18 12:07 office2john.py
+-rwx--x--x 1 wangx users     2028 Oct 18 12:07 openbsd_softraid2john.py
+-rwx--x--x 1 wangx users     2075 Oct 18 12:07 openssl2john.py
+-rwx--x--x 1 wangx users   154083 Oct 18 12:07 pass_gen.pl
+-rwx--x--x 1 wangx users    26325 Oct 18 12:07 password.lst
+-rwx--x--x 1 wangx users    35260 Oct 18 12:07 pcap2john.py
+-rwx--x--x 1 wangx users    13376 Oct 18 12:07 pdf2john.py
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 pfx2john
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 putty2john
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 pwsafe2john
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 racf2john
+-rwx--x--x 1 wangx users     6660 Oct 18 12:07 radius2john.pl
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 rar2john
+-rwx--x--x 1 wangx users    29907 Oct 18 12:07 raw2dyna
+-rwx--x--x 1 wangx users     4520 Oct 18 12:07 regex_alphabets.conf
+-rwx--x--x 1 wangx users     7820 Oct 18 12:07 relbench
+-rwx--x--x 1 wangx users    53958 Oct 18 12:07 repeats16.conf
+-rwx--x--x 1 wangx users    72244 Oct 18 12:07 repeats32.conf
+-rwx--x--x 1 wangx users    16423 Oct 18 12:07 rexgen2rules.pl
+-rwx--x--x 1 wangx users     8963 Oct 18 12:07 sap2john.pl
+-rwx--x--x 1 wangx users      526 Oct 18 12:07 sha-dump.pl
+-rwx--x--x 1 wangx users      491 Oct 18 12:07 sha-test.pl
+-rwx--x--x 1 wangx users      855 Oct 18 12:07 sipdump2john.py
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 ssh2john
+-rwx--x--x 1 wangx users     1067 Oct 18 12:07 ssh2sshng.py
+-rwx--x--x 1 wangx users    27951 Oct 18 12:07 sshng2john.py
+-rwx--x--x 1 wangx users   107571 Oct 18 12:07 stats
+-rwx--x--x 1 wangx users      685 Oct 18 12:07 strip2john.py
+-rwx--x--x 1 wangx users     3445 Oct 18 12:07 sxc2john.py
+-rwx--x--x 1 wangx users    33029 Oct 18 12:07 tgtsnarf
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 truecrypt_volume2john
+-rwx--x--x 1 wangx users    74879 Oct 18 12:07 uaf2john
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 unafs
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 undrop
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 unique
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 unshadow
+-rwx--x--x 1 wangx users   668568 Oct 18 12:07 upper.chr
+-rwx--x--x 1 wangx users  1220961 Oct 18 12:07 uppernum.chr
+-rwx--x--x 1 wangx users  9286825 Oct 18 12:07 utf8.chr
+-rwx--x--x 1 wangx users    55726 Oct 18 12:07 wpapcap2john
+-rwx--x--x 1 wangx users 13849300 Oct 18 12:07 zip2john
